@@ -264,9 +264,7 @@ if query:
 
             receta = opciones[seleccion]
 
-            # =========================
-            # 🧠 RESET POR CAMBIO DE RECETA
-            # =========================
+            # RESET POR CAMBIO DE RECETA
             if "ultima_receta" not in st.session_state:
                 st.session_state.ultima_receta = None
 
@@ -275,9 +273,7 @@ if query:
                 st.session_state.analisis = None
                 st.session_state.ultima_receta = receta["id"]
 
-            # =========================
-            # 🖼 IMAGEN + INFO
-            # =========================
+            # IMAGEN + INFO
             col1, col2 = st.columns([1,2])
 
             with col1:
@@ -290,7 +286,7 @@ if query:
             with col2:
                 st.markdown(f"## 🍰 {receta['nombre']}")
                 st.markdown(
-                    f"💸 ${receta['precio_total']:.2f} | 🔎 {clasificar_confianza(receta['confianza'])}"
+                    f"💸 ${receta['precio_total']:.2f}    🔎 {clasificar_confianza(receta['confianza'])}"
                 )
 
             # 🍰 RECETA
@@ -321,7 +317,7 @@ if query:
 
             data = st.session_state.analisis
 
-            # 🚨 validación importante
+            # validación importante
             if data is None:
                 st.error("No se pudo generar el análisis 😢")
 
