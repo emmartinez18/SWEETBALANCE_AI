@@ -308,7 +308,7 @@ if query:
                 st.write(f"{i}. {paso}")
 
             # 🥗 NUTRICIÓN
-           if "analisis" not in st.session_state:
+            if "analisis" not in st.session_state:
                 st.session_state.analisis = None
 
             if st.session_state.analisis is None:
@@ -344,4 +344,4 @@ if query:
 
                 st.markdown("### 🔄 Sustituciones")
                 for s in data["sustituciones"]:
-                    st.write(f"• {s}")
+                    st.write(f"• {s}")            
