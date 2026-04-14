@@ -1,0 +1,917 @@
+id,nombre,precio_total,confianza_total,num_ingredientes,confianza,nivel_confianza,categoria_precio
+3767,chocolate chip strawberry crunch cookies,165.55488888888888,9.2,10,0.92,Alta,alta
+53042,cherry almond tart,12.1,6.4,8,0.8,Media,económica
+157100,vegan pumpkin chocolate chip cookies,77.37188235294118,10.2,13,0.7846153846153846,Media,media
+157101,chocolate chai panna cotta,30.1872,5.2,6,0.8666666666666667,Alta,económica
+157107,skinny cheesecake brownie bites,29.206070588235296,11.0,13,0.8461538461538461,Alta,económica
+157111,vegan baked apples with oat crumble,22.437941176470588,7.2,8,0.9,Alta,económica
+157160,chocolate caramel tartlets,56.8511111111111,9.2,10,0.92,Alta,media
+157226,humble pear crumble,96.22333333333331,5.2,6,0.8666666666666667,Alta,media
+157278,pumpkin chiffon pie with a doublechocolate crust,66.76288,11.4,13,0.8769230769230769,Alta,media
+157408,triple chocolate mocha pudding,109.926,11.4,13,0.8769230769230769,Alta,alta
+157497,chocolate tart with a bourbon glaze and pumpkin whipped cream,42.98133333333334,7.6,8,0.95,Alta,económica
+157515,delightful filled pumpkin roll,54.83006666666667,8.8,10,0.8800000000000001,Alta,media
+157994,oreo balls,14.1,2.2,3,0.7333333333333334,Media,económica
+471109,rhubarby crumble,90.0878267254038,5.2,6,0.8666666666666667,Alta,media
+610277,nutty chocolate cheesecake,138.57183642465995,14.4,16,0.9,Alta,alta
+617560,powerful protein brownie bars,36.03501788235294,7.6,10,0.76,Media,económica
+619521,pleasantly proteiny pumpkin bread,48.62018666666666,8.6,11,0.7818181818181817,Media,económica
+631744,flourless lentil chocolate brownies,127.87574880763115,9.0,11,0.8181818181818182,Alta,alta
+631745,gluten free butternut squash pistachio bars,130.71454054054055,4.8,6,0.7999999999999999,Media,alta
+631755,peppermint hot chocolate cupcakes,168.33153590849673,17.8,21,0.8476190476190476,Alta,alta
+631769,bad boy giant double chocolate cookies,104.21944444444443,7.2,8,0.9,Alta,alta
+631781,guf danish ice cream topping,6.4,4.6,5,0.92,Alta,económica
+631830,10 minute brownies,63.68607631160573,7.2,8,0.9,Alta,media
+631865,3 minute chocolate cake,7.604705882352941,4.2,5,0.8400000000000001,Alta,económica
+631879,5 minute xocai chocolate mug cake,8.5,5.6,6,0.9333333333333332,Alta,económica
+631883,7up cakea dreamy vintage cake made skinny,81.15294117647059,9.4,13,0.7230769230769231,Media,media
+631886,a bag pudding with currants,52.45694444444444,5.6,6,0.9333333333333332,Alta,media
+631892,a classic strawberry shortcake,89.88089653255017,8.2,9,0.911111111111111,Alta,media
+632091,almond and cranberry shortbread,105.10981274225767,7.6,8,0.95,Alta,alta
+632094,almond biscotti,47.10351351351352,6.8,8,0.85,Alta,económica
+632100,almond butter cookies,86.02763513513513,7.6,8,0.95,Alta,media
+632108,almond cake with orange marmalade,60.518,7.2,8,0.9,Alta,media
+632116,almond cookie bar,23.944444444444443,7.4,9,0.8222222222222223,Alta,económica
+632118,almond cranberry cookies,80.58522092577158,6.6,7,0.9428571428571428,Alta,media
+632145,almond joy cupcakes,85.53944444444444,12.6,15,0.84,Alta,media
+632167,almond pie,111.4104024024024,8.4,10,0.8400000000000001,Alta,alta
+632168,almond pistachio cookied with saffron icing,31.29675675675676,9.2,10,0.92,Alta,económica
+632173,almond rainbow cake,63.524470588235296,8.4,10,0.8400000000000001,Alta,media
+632176,almond ricotta cake,77.56151351351352,15.8,19,0.8315789473684211,Alta,media
+632179,almond sandwich cookies,31.40675675675676,4.6,5,0.92,Alta,económica
+632186,almond snowball cookies,23.46,6.2,7,0.8857142857142858,Alta,económica
+632190,almond tartlets,106.87522522522522,5.8,7,0.8285714285714285,Alta,alta
+632194,almond tea cookies,89.87787577777777,5.6,6,0.9333333333333332,Alta,media
+632199,almond torte with cream cherries,72.1092,6.199999999999999,9,0.6888888888888888,Media,media
+632208,almost heaven cake,132.262,5.0,7,0.7142857142857143,Media,alta
+632263,alternative healthy chocolate mousse,66.35635675675675,5.2,6,0.8666666666666667,Alta,media
+632280,amaretto almond cookies,111.93129129129127,6.8,8,0.85,Alta,alta
+632286,amaretto chocolate cookies,38.0125,4.8,6,0.7999999999999999,Media,económica
+632363,angel food cake with lemon icing,51.8355,8.4,10,0.8400000000000001,Alta,media
+632445,apothic granita and vanilla panna cotta,56.45,7.199999999999999,10,0.72,Media,media
+632471,apple and walnut cake,96.13451351351353,8.2,9,0.911111111111111,Alta,media
+632485,apple cake,96.10516057233704,9.6,10,0.96,Alta,media
+632487,apple cake with caramel brown sugar glaze,98.88080235294116,12.2,13,0.9384615384615383,Alta,media
+632501,apple cinnamon cake,73.36256456456456,10.4,12,0.8666666666666667,Alta,media
+632504,apple cinnamon cookie bars,61.32888888888889,12.8,14,0.9142857142857144,Alta,media
+632522,apple crumble,86.58444444444444,7.4,9,0.8222222222222223,Alta,media
+632525,apple custard pie with oatmeal crust,113.11777777777776,9.6,10,0.96,Alta,alta
+632527,apple cupcakes,104.24962052962051,10.2,11,0.9272727272727272,Alta,alta
+632549,apple graham cracker coffee cake,62.75688888888888,13.0,15,0.8666666666666667,Alta,media
+632570,apple pie honey wheat scones,55.50633333333333,14.0,16,0.875,Alta,media
+632573,apple pie bars,83.55843137254901,10.2,11,0.9272727272727272,Alta,media
+632580,apple pie vermont style,65.765,12.4,14,0.8857142857142858,Alta,media
+632611,apple walnut brownies,81.31804504504504,10.4,12,0.8666666666666667,Alta,media
+632622,apple pomegranate crisp,79.29767178943649,14.2,17,0.8352941176470587,Alta,media
+632625,applecheesecake tart with salted caramel glaze,29.934444444444445,11.0,13,0.8461538461538461,Alta,económica
+632632,applesauce cake,203.8888912912913,10.4,12,0.8666666666666667,Alta,premium
+632639,applesauce carrot cake muffins,88.74712334801762,11.2,14,0.7999999999999999,Media,media
+632653,apricot chickpea flour cookies,45.26726726726727,7.8,9,0.8666666666666667,Alta,económica
+632656,apricot clafouti with lavender pecans,88.786,12.8,16,0.8,Media,media
+632660,apricot glazed apple tart,73.74666666666667,8.2,9,0.911111111111111,Alta,media
+632683,apricotalmond frangipane tart,137.9846,16.4,18,0.911111111111111,Alta,alta
+633039,aunt ivys raw macadamia and goji berry cookies,38.38998410174881,5.8,7,0.8285714285714285,Alta,económica
+633078,authentic italian biscotti,69.27527027027027,7.8,9,0.8666666666666667,Alta,media
+633082,authentic mexican wedding cookies,115.0984024024024,6.0,6,1.0,Alta,alta
+633086,autumn apple cake with caramel glaze,127.05964705882351,13.2,14,0.9428571428571428,Alta,alta
+633089,autumn apple pie,107.88499999999998,17.8,21,0.8476190476190476,Alta,alta
+633091,autumn cheesecake,74.22282282282282,8.8,10,0.8800000000000001,Alta,media
+633095,autumn harvest cake,77.76120120120119,16.4,18,0.911111111111111,Alta,media
+633101,autumn pumpkin cake,44.61,3.8,5,0.76,Media,económica
+633102,autumn pumpkin chiffon cake,51.69,6.8,8,0.85,Alta,media
+633139,avocado chocolate bits frozen yogurt,78.08454545454545,8.2,9,0.911111111111111,Alta,media
+633141,avocado creamcheese cookies,93.11777777777776,6.0,8,0.75,Media,media
+633219,baby blakes oatmeal breakfast cookies,91.8589411764706,14.0,16,0.875,Alta,media
+633229,baby chick cupcakes,131.81577777777775,11.0,13,0.8461538461538461,Alta,alta
+633399,baileys irish cream crepes with creme,46.916222222222224,8.2,9,0.911111111111111,Alta,económica
+633492,baked caramel custard,49.896,7.2,8,0.9,Alta,económica
+633574,baked custard,32.98,4.0,4,1.0,Alta,económica
+633576,baked custardflan,21.758,3.6,4,0.9,Alta,económica
+633707,baked passion fruit cheesecake with vanilla raspberry sauce,78.52349559471365,9.0,11,0.8181818181818182,Alta,media
+633756,baked rice pudding,44.3984,7.2,8,0.9,Alta,económica
+633758,baked rice custard,86.898,6.8,8,0.85,Alta,media
+633851,baked tofu cheesecake,68.003,7.8,9,0.8666666666666667,Alta,media
+633972,banana white chocolate cream pie,73.95277777777778,8.2,9,0.911111111111111,Alta,media
+633975,banana almond cake,73.07415275675676,13.8,15,0.92,Alta,media
+634005,banana bread with chocolate chips,38.95323533333333,10.2,11,0.9272727272727272,Alta,económica
+634006,banana bread,81.44577777777776,7.2,8,0.9,Alta,media
+634010,banana bread with chocolate glaze,88.77781676483757,11.2,12,0.9333333333333332,Alta,media
+634011,banana bread with chocolate swirl,49.48667572192513,13.4,15,0.8933333333333333,Alta,económica
+634021,banana butter pie,109.01805555555556,11.0,13,0.8461538461538461,Alta,alta
+634026,banana cake with caramel icing,73.62222222222222,10.8,12,0.9,Alta,media
+634039,banana chocolate chip cookies with flax,130.16970444444445,11.8,13,0.9076923076923078,Alta,alta
+634047,banana chocolate pudding cake,42.873,10.8,12,0.9,Alta,económica
+634070,banana creme brulee,36.2,5.6,6,0.9333333333333332,Alta,económica
+634153,banana peanut butter cupcakes,87.60235555555555,12.0,14,0.8571428571428571,Alta,media
+634171,banana pudding cake,108.502,13.6,16,0.85,Alta,alta
+634174,banana pudding squares,41.63,6.0,8,0.75,Media,económica
+634187,banana split cake,210.92283333333333,7.6,8,0.95,Alta,premium
+634188,banana split parfait,104.62714987714988,4.2,5,0.8400000000000001,Alta,alta
+634191,banana split sundae ice cream cake,154.89484684684683,9.8,11,0.890909090909091,Alta,alta
+634202,banana walnut cake,37.06284896661367,9.2,10,0.92,Alta,económica
+634212,banana oatmeal chocolate chip cookies,58.55328,10.4,12,0.8666666666666667,Alta,media
+634229,bananas foster,8.243333333333332,5.6,6,0.9333333333333332,Alta,económica
+634368,basic chocolate cupcakes,39.42294117647059,10.0,12,0.8333333333333334,Alta,económica
+634425,basil coconut ice cream,53.3,3.2,4,0.8,Media,media
+634794,beetroot oats halwa pudding,64.66,5.4,7,0.7714285714285714,Media,media
+634834,benedictine yogurt cake,45.94992780748663,7.8,9,0.8666666666666667,Alta,económica
+634847,berry and white chocolate trifle,114.02786343612334,6.4,8,0.8,Media,alta
+634854,berry fruit crumble,60.1392,5.0,7,0.7142857142857143,Media,media
+634856,berry cobbler,53.84169114047968,8.4,10,0.8400000000000001,Alta,media
+634877,best biscotti,106.50577777777777,7.2,8,0.9,Alta,alta
+634880,best banana cake ever,71.08366666666666,12.2,13,0.9384615384615383,Alta,media
+634898,best chocolate chip cookies,85.47888888888889,8.8,10,0.8800000000000001,Alta,media
+634921,best peanut butter cookies,48.42222222222222,8.2,9,0.911111111111111,Alta,económica
+634931,best soft ginger cookies,46.510000000000005,7.8,9,0.8666666666666667,Alta,económica
+634986,bings banana cake,49.65675675675676,6.8,8,0.85,Alta,económica
+634990,bings lemon tart,65.98466666666666,7.2,8,0.9,Alta,media
+635015,biscuits cake,92.05333333333331,8.4,10,0.8400000000000001,Alta,media
+635039,bittersweet chocolate gelato,57.696,6.8,8,0.85,Alta,media
+635041,bittersweet chocolate pudding,46.70466666666667,7.2,8,0.9,Alta,económica
+635043,bittersweet chocolatewalnut bundt cake,141.24655855855855,12.4,14,0.8857142857142858,Alta,alta
+635063,black bean brownies,67.07789401165871,12.4,14,0.8857142857142858,Alta,media
+635113,black forest mini cheesecakes,98.45154666666669,12.2,15,0.8133333333333332,Alta,media
+635195,blackberry clafoutis,38.53724669603524,7.6,8,0.95,Alta,económica
+635200,blackberry cobbler,91.174505628977,6.6,7,0.9428571428571428,Alta,media
+635207,blackberry creme brulee,127.17898678414096,7.4,9,0.8222222222222223,Alta,alta
+635228,blackberry peach pie,94.68232011747428,10.4,12,0.8666666666666667,Alta,media
+635233,blackberry pie cobbler,111.52890014684289,7.6,8,0.95,Alta,alta
+635235,blackberry pie with lemon verbena whip cream,104.88482011747428,7.8,9,0.8666666666666667,Alta,alta
+635248,blackberry walnut cookies,61.74984684684685,6.6,7,0.9428571428571428,Alta,media
+635253,blackberryraspberry pie,168.90190014684288,10.0,12,0.8333333333333334,Alta,alta
+635254,blackberrylemon whoppie pies,82.91413558492413,11.4,13,0.8769230769230769,Alta,media
+635375,blue cornmeal dried blueberry and pinon nut biscotti,57.00524669603524,7.8,9,0.8666666666666667,Alta,media
+635391,blue sugar plum cake,49.80688888888888,9.2,10,0.92,Alta,económica
+635394,blueberry orange maple scones,95.97384669603524,14.2,17,0.8352941176470587,Alta,media
+635408,blueberry and cottage cheese strudel,106.79393783651491,10.4,12,0.8666666666666667,Alta,alta
+635413,blueberry banana bread,48.99324669603524,9.4,11,0.8545454545454546,Alta,económica
+635425,blueberry buckle fluffy cake with blueberries,104.22940428095936,13.2,14,0.9428571428571428,Alta,alta
+635434,blueberry cheesecake,104.36911111111112,8.0,10,0.8,Media,alta
+635436,blueberry cherry buckle,87.53333333333333,5.4,7,0.7714285714285715,Media,media
+635439,blueberry cinnamon low fat cake,22.996470588235294,9.4,11,0.8545454545454546,Alta,económica
+635444,blueberry cobbler,31.156666666666663,9.4,11,0.8545454545454546,Alta,económica
+635447,blueberry compote bread pudding with soft curd cheese sabayon,57.5083516886931,9.0,11,0.8181818181818182,Alta,media
+635468,blueberry crumble tart with cream cheese whipped cream,154.31171567302985,12.2,15,0.8133333333333332,Alta,alta
+635513,blueberry pie with sweet almond crust,87.6025317640989,11.4,13,0.8769230769230769,Alta,media
+635520,blueberry raspberry pie,161.01236906510033,9.4,11,0.8545454545454546,Alta,alta
+635521,blueberry pound cake,88.57563338228096,6.6,7,0.9428571428571428,Alta,media
+635527,blueberry ricotta tartlettes,53.30449339207048,5.6,6,0.9333333333333332,Alta,media
+635541,blueberry streusel cake with lemon icing,44.26118787250583,10.0,12,0.8333333333333334,Alta,económica
+635546,blueberry swirl cheesecake,59.58863529411765,5.8,7,0.8285714285714285,Alta,media
+635554,blueberry yoghurt cake,104.82224242424242,7.8,9,0.8666666666666667,Alta,alta
+635561,blueberrylavender sauce and ginger snap ice cream cups,115.21515193343124,9.0,11,0.8181818181818182,Alta,alta
+635743,bournvita marshmallow cookies,23.734594594594597,11.0,13,0.8461538461538461,Alta,económica
+635754,boysenberry brownies,72.55351351351351,6.6,7,0.9428571428571428,Alta,media
+635895,brandy alexander brownies,32.876764666666666,8.8,10,0.8800000000000001,Alta,económica
+635907,brandyapple mini pies with cornmeal crust,48.85666666666667,12.0,14,0.8571428571428571,Alta,económica
+636022,breadnut cakes,66.8875,6.8,8,0.85,Alta,media
+636131,brioche bread pudding,73.554,7.6,10,0.76,Media,media
+636271,brooklyn blackout cake,107.6054,11.2,14,0.7999999999999999,Media,alta
+636289,brown rice for dessert,69.06,5.4,7,0.7714285714285715,Media,media
+636300,brown sugar spice sugar cookie frogs,86.56688888888888,10.2,11,0.9272727272727272,Alta,media
+636315,brown sugar sponge cookie with chocolate covered caramels,12.979902,7.2,8,0.9,Alta,económica
+636324,brownie cake gluten free dairy free,61.978,7.8,9,0.8666666666666667,Alta,media
+636325,brownie cheesecake,110.83108888888889,7.8,9,0.8666666666666667,Alta,alta
+636328,brownie coffins,55.01608888888888,8.6,9,0.9555555555555556,Alta,media
+636331,brownie cupcakes,64.65188888888889,7.0,7,1.0,Alta,media
+636334,brownie swirl cheese cake,34.758,5.2,6,0.8666666666666667,Alta,económica
+636392,buckwheat crepes,30.23,6.6,7,0.9428571428571428,Alta,económica
+636495,butter coconut macaroon,80.90488888888888,6.6,7,0.9428571428571428,Alta,media
+636540,buttermilk buckle grape blueberry streusel,79.24358002936857,10.8,12,0.9,Alta,media
+636545,buttermilk coffee cake,123.31453453453452,10.2,11,0.9272727272727272,Alta,alta
+636560,buttermilk pound cake,123.35377777777776,10.2,11,0.9272727272727272,Alta,alta
+636620,butterscotch pie,94.56466666666668,14.8,18,0.8222222222222223,Alta,media
+636626,buttery hazelnut shortbreads,49.12082282282282,7.2,8,0.9,Alta,económica
+636632,buttery pull apart monkey bread,137.36616888888886,8.4,10,0.8400000000000001,Alta,alta
+636675,cacaopecan shortbread cookies,94.25906906906908,10.6,11,0.9636363636363636,Alta,media
+636676,cacao chia pudding with avocado mousse,23.68,6.8,10,0.6799999999999999,Media,económica
+636729,potato chip brownies,30.35848888888889,7.8,9,0.8666666666666667,Alta,económica
+636754,cake de naranja,55.82688888888888,8.2,9,0.911111111111111,Alta,media
+636756,cake batter chocolates,118.85,5.2,6,0.8666666666666667,Alta,alta
+636766,cake with lemon rosewater and pistachios,69.17775184275185,11.8,15,0.7866666666666666,Media,media
+636768,cake with wine and olive oil,42.98823529411764,8.8,10,0.8800000000000001,Alta,económica
+636875,candy cane chocolate ice cream,69.258,7.4,9,0.8222222222222223,Alta,media
+636910,cannoli,97.28995675675677,10.0,12,0.8333333333333334,Alta,media
+636943,cappuccino cheesecake,203.59377777777777,8.6,11,0.7818181818181817,Media,premium
+636970,caramel almond berry trifle,59.72404933920704,5.0,7,0.7142857142857143,Media,media
+636971,caramel almond mug cake,16.11337837837838,6.2,7,0.8857142857142858,Alta,económica
+636974,caramel apple cake,139.0106638403109,13.2,14,0.9428571428571428,Alta,alta
+636975,caramel apple bread bake,64.05799999999999,10.4,12,0.8666666666666667,Alta,media
+636989,caramel applebrownie cheesecake,96.86926726726726,12.2,13,0.9384615384615383,Alta,media
+637008,caramel ice cream,58.658,6.2,7,0.8857142857142858,Alta,media
+637014,caramel macchiato cake,87.32522222222222,7.6,10,0.76,Media,media
+637016,caramel peanut fudge cake,142.7864864864865,7.4,9,0.8222222222222223,Alta,alta
+637095,cardamon infused black rice pudding with coconut milk,2.0,3.6,4,0.9,Alta,económica
+637116,caribbean truffle pie,104.06277777777775,12.6,17,0.7411764705882353,Media,alta
+637148,carob chips cookies,57.91044444444445,7.4,9,0.8222222222222223,Alta,media
+637161,carrot and banana snacking cake,41.25050802139037,10.8,12,0.9,Alta,económica
+637171,carrot banana bread,87.59916584766584,13.4,15,0.8933333333333333,Alta,media
+637178,carrot cake cookie sandwiches,59.66222222222222,12.6,15,0.84,Alta,media
+637181,carrot cake muffin cookies,87.93364564564564,13.6,16,0.85,Alta,media
+637218,carrot raisin chocolate chip cookies,25.0,4.2,5,0.8400000000000001,Alta,económica
+637229,carrot spice cake,113.8173725490196,15.8,19,0.831578947368421,Alta,alta
+637389,chai peach clafoutis,33.34188,11.4,13,0.8769230769230769,Alta,económica
+637463,charlotte tiramisu cake with a hint of baileys heaven in mouth,70.62444933920705,9.8,13,0.7538461538461537,Media,media
+637513,cheddar pecan cocktail biscotti,60.74851351351352,8.6,11,0.7818181818181817,Media,media
+637624,cheesecake icecream with mango syrup,84.99799999999999,7.399999999999999,9,0.8222222222222222,Alta,media
+637625,cheesecake with cranberries,156.8319627998042,8.6,11,0.7818181818181817,Media,alta
+637734,cherry clafouti,32.44418918918919,11.2,12,0.9333333333333332,Alta,económica
+637744,cherry coke float cupcakes with chocolate shell,68.88488888888888,11.0,13,0.8461538461538461,Alta,media
+637761,cherry ice cream,50.18,5.4,7,0.7714285714285715,Media,media
+637765,cherry limeade macaroons,54.708000000000006,8.0,10,0.8,Media,media
+637767,cherry jello poke cake,42.16666666666667,2.2,3,0.7333333333333334,Media,económica
+637790,cherry upsidedown cake extremely easy to make,29.62633333333333,8.2,9,0.911111111111111,Alta,económica
+637794,cherryberry pie with agave nectar allbutter crust,116.91638888888887,9.6,12,0.7999999999999999,Media,alta
+637797,chess pie two ways,99.76244444444444,13.2,16,0.825,Alta,media
+637815,chevre cheesecake with rhubarb compote and candied pistachios,76.42837837837838,9.6,12,0.7999999999999999,Media,media
+637822,chewy chocolate chip cookies,134.85377777777776,9.2,10,0.92,Alta,alta
+637832,chia seed pudding,21.392449339207047,5.2,6,0.8666666666666667,Alta,económica
+638717,chinese steamed flan,38.79556933920705,6.0,6,1.0,Alta,económica
+638790,chocobanana bread bites,52.972541176470585,12.8,14,0.9142857142857144,Alta,media
+638797,chocoholics deep dark dream chiffon cake,120.61327581699346,16.2,19,0.8526315789473684,Alta,alta
+638800,chocolate strawberry thumbprint cookies,94.7721738037597,10.2,11,0.9272727272727272,Alta,media
+638816,chocolate and szechuan peppercorn brownies,107.31924444444444,13.0,15,0.8666666666666667,Alta,alta
+638819,chocolate asparagus bundt cake,86.5649958664547,10.4,12,0.8666666666666667,Alta,media
+638820,chocolate apple cake,98.41454244444444,9.6,10,0.96,Alta,media
+638822,chocolate banana biscotti,33.638125,12.2,13,0.9384615384615383,Alta,económica
+638831,chocolate banana zucchini cake,86.54688888888889,12.2,15,0.8133333333333332,Alta,media
+638832,chocolate banoffee pie,109.00688888888888,8.8,10,0.8800000000000001,Alta,alta
+638852,chocolate brownie with orange,109.57573573573572,8.8,10,0.8800000000000001,Alta,alta
+638871,chocolate cake with coffee marscarpone icing,112.27195127748068,11.4,13,0.8769230769230769,Alta,alta
+638879,chocolate caramel cupcakes,153.23577777777777,14.2,15,0.9466666666666668,Alta,alta
+638893,chocolate cherry cheesecake,121.18913333333332,13.8,17,0.8117647058823529,Alta,alta
+638907,chocolate chip bread pudding,132.658,5.2,6,0.8666666666666667,Alta,alta
+638922,chocolate chip skillet cookie,148.34377777777777,9.2,10,0.92,Alta,alta
+638923,chocolate chip cookie mocha brownie bites,145.68737124183005,13.4,15,0.8933333333333333,Alta,alta
+638927,chocolate chip cookies easier that buying,119.61649555555556,9.4,11,0.8545454545454546,Alta,alta
+638940,chocolate chip peanut butter banana cookies,55.266333333333336,11.8,13,0.9076923076923078,Alta,media
+638981,chocolate crinkle cookies,45.85088235294118,7.2,8,0.9,Alta,económica
+638989,chocolate cupcakes with vanilla whipped cream frosting,60.17722117647059,14.2,17,0.8352941176470587,Alta,media
+638996,chocolate dipped coconut macaroons,37.10823529411765,8.8,10,0.8800000000000001,Alta,económica
+639017,chocolate espresso cupcakes with mocha buttercream,147.67287686274508,14.4,18,0.8,Media,alta
+639020,chocolate explosion cookies,36.69994117647059,8.8,10,0.8800000000000001,Alta,económica
+639031,chocolate fudge cookies,85.69164562091503,7.2,8,0.9,Alta,media
+639047,chocolate hand pies,81.22399999999999,14.4,16,0.9,Alta,media
+639049,chocolate hazelnut banana cupcakes with marshmallow frosting,156.36277777777778,14.4,18,0.8,Media,alta
+639061,chocolate layer cake with ganache,124.18549346405229,13.6,16,0.85,Alta,alta
+639062,chocolate infused churros,57.49161111111111,9.8,11,0.890909090909091,Alta,media
+639114,chocolate nutella walnut cake,96.94185435435436,8.2,9,0.911111111111111,Alta,media
+639125,chocolate orange madeleines,36.09,6.4,8,0.8,Media,económica
+639156,chocolate peanut butterfilled cookies,69.69688888888889,10.8,14,0.7714285714285715,Media,media
+639161,chocolate peppermint cookies,108.11033333333332,11.8,13,0.9076923076923078,Alta,alta
+639177,chocolate pudding rave diet,36.308,4.4,6,0.7333333333333334,Media,económica
+639179,chocolate puff pastry squares,18.666666666666664,3.8,5,0.76,Media,económica
+639182,chocolate quark cake,238.88343555555556,18.2,21,0.8666666666666666,Alta,premium
+639203,chocolate soup,88.81475675675676,9.2,10,0.92,Alta,media
+639209,chocolate spelt cake,101.87188888888888,10.6,13,0.8153846153846154,Alta,alta
+639234,chocolate wafers,21.781333333333333,7.8,9,0.8666666666666667,Alta,económica
+639254,chocolatecaramelpecan cheesecake bliss,249.7597357357357,10.8,12,0.9,Alta,premium
+639267,chocolatedate cake with chocolate sticky toffee glaze,142.41,18.2,23,0.7913043478260869,Media,alta
+639287,chocolatepeppermint thumbprint cookies,55.07466666666667,11.2,14,0.7999999999999999,Media,media
+639294,chocolatewalnut bread pudding,132.78142342342343,8.8,10,0.8800000000000001,Alta,alta
+639361,christmas fruit cake,152.7748168168168,10.2,13,0.7846153846153846,Media,alta
+639450,cinnamon cookies,37.185,5.8,7,0.8285714285714285,Alta,económica
+639456,cinnamon eggless coffee cake,24.747411764705884,9.4,11,0.8545454545454546,Alta,económica
+639465,cinnamon mocha quick bread,64.84588235294117,9.4,11,0.8545454545454546,Alta,media
+639492,cinnamon twists,97.11777777777776,5.6,6,0.9333333333333332,Alta,media
+639493,cinnamon toffee praline oatmeal cookies,116.5791111111111,11.0,13,0.8461538461538461,Alta,alta
+639537,clafoutis with sour cherries,55.2,7.399999999999999,9,0.8222222222222222,Alta,media
+639580,classic carrot cake with cream cheese frosting,183.4245238650415,14.4,16,0.9,Alta,alta
+639644,classic vanillaorange sugar cookies,108.83322222222222,9.6,10,0.96,Alta,alta
+639656,clementine cake,37.9,3.8,5,0.76,Media,económica
+639697,cocoa chiffon cake,74.15388235294117,9.4,11,0.8545454545454546,Alta,media
+639708,coconut pomogranate ice cream raw and vegan,25.5,3.0,5,0.6,Baja,económica
+639714,coconut almond cheesecake,192.2461591591592,13.2,16,0.825,Alta,alta
+639715,coconut almond macaroons,95.58121144674088,4.2,5,0.8400000000000001,Alta,media
+639726,coconut banana nut bread,41.38741176470588,10.4,12,0.8666666666666667,Alta,económica
+639741,coconut chow mein butterscotch cookies,130.63466666666665,10.4,12,0.8666666666666667,Alta,alta
+639796,coconut oatmeal cookies,179.63167011945865,15.8,17,0.9294117647058824,Alta,alta
+639798,coconut peanut macaroons,78.77151351351353,5.6,6,0.9333333333333332,Alta,media
+639802,coconut pound cake,77.98832679738561,6.6,7,0.9428571428571428,Alta,media
+639804,coconut pecan oatmeal cake,123.28151351351352,11.4,13,0.8769230769230769,Alta,alta
+639833,coconut toffee macaroons,90.918098,5.8,7,0.8285714285714285,Alta,media
+639853,coffee banana pie pastel de cafe y bananos,128.36666666666665,9.8,11,0.890909090909091,Alta,alta
+639865,coffee cookies,11.63470588235294,7.4,9,0.8222222222222223,Alta,económica
+639882,coffee mousse cake,149.78462133333332,21.0,25,0.84,Alta,alta
+640002,cookie bars,45.75882352941176,4.4,6,0.7333333333333333,Media,económica
+640148,cornflake cupcakes,87.41666666666667,2.8,4,0.7,Media,media
+640246,cowboy cookies with pretzels and raisinettes,95.54488888888888,11.0,13,0.8461538461538461,Alta,media
+640355,cranberry and white chocolate rice krispies squares,209.19693783651493,5.2,6,0.8666666666666667,Alta,premium
+640389,cranberry orange banana bread,42.51024669603524,10.4,12,0.8666666666666667,Alta,económica
+640395,cranberry orange biscotti,124.85858892593032,11.8,13,0.9076923076923078,Alta,alta
+640398,cranberry orange scones,39.56222834067548,11.0,13,0.8461538461538461,Alta,económica
+640429,cranberry walnut biscotti,121.06609712528802,12.2,13,0.9384615384615383,Alta,alta
+640447,cranberryorange almond pudding,155.2686308528793,12.2,13,0.9384615384615383,Alta,alta
+640451,cranberryorange pistachio chip cookies,137.38653453453452,10.8,12,0.9,Alta,alta
+640489,cream cheese cookies,22.124444444444443,6.8,8,0.85,Alta,económica
+640586,creamy amaretto cheesecake,94.49314282282282,12.0,14,0.8571428571428571,Alta,media
+640589,creamsicle cookies,77.55799999999999,10.2,11,0.9272727272727272,Alta,media
+640625,creamy chocolate pudding with coconut whipped cream,34.998,5.6,6,0.9333333333333332,Alta,económica
+640730,creme brulee,30.6,5.6,6,0.9333333333333332,Alta,económica
+640767,crepes suzette,85.11222222222221,9.8,11,0.890909090909091,Alta,media
+640964,crunchy peanut butter cookie sandwiches,97.93015555555556,12.0,14,0.8571428571428571,Alta,media
+641047,curious georges glutenfree banana nut bread,83.43288888888888,8.4,10,0.8400000000000001,Alta,media
+641168,cyndees neiman marcus cake,44.511333333333326,9.0,11,0.8181818181818182,Alta,económica
+641202,dairyfree cocoa cupcakes with peanut butter filling marshmallow frosting,72.93226073131956,23.4,27,0.8666666666666666,Alta,media
+641270,dark chocolate walnut biscotti,85.76333333333332,6.8,8,0.85,Alta,media
+641284,dark shadows baileys chocolate cheesecake brownies,167.09196696696696,12.4,14,0.8857142857142858,Alta,alta
+641308,decadent black forest cake,84.6,6.199999999999999,9,0.6888888888888888,Media,media
+641314,decadent homemade oreos,64.71877777777777,11.4,13,0.8769230769230769,Alta,media
+641395,delicious homemade chocolate oreos,49.40766666666667,10.4,12,0.8666666666666667,Alta,económica
+641435,dessert apple rings with cinnamon cream syrup,34.014,9.2,10,0.92,Alta,económica
+641445,dessert thats no problem baked pears with oatmeal crumble,30.24656866666667,5.6,6,0.9333333333333332,Alta,económica
+641459,devils food cake with caramelized bananas,131.47869369369369,19.4,23,0.8434782608695651,Alta,alta
+641537,dirt dessert,190.89497777777777,7.0,9,0.7777777777777778,Media,alta
+641585,double chocolate cherry cookies,118.21324444444444,10.4,12,0.8666666666666667,Alta,alta
+641586,double chocolate brownie semifreddo,89.458,6.2,7,0.8857142857142858,Alta,media
+641598,double chocolate mint cookies,74.01444444444444,10.2,13,0.7846153846153846,Media,media
+641599,double chocolate zucchini bread,99.031,10.0,12,0.8333333333333334,Alta,media
+641602,double coconut cupcakes,170.29333333333332,8.2,9,0.911111111111111,Alta,alta
+641603,double decadence dark chocolate ice cream,129.5715135135135,8.0,10,0.8,Media,alta
+641604,double dark chocolate zucchini brownies,76.679,10.4,12,0.8666666666666667,Alta,media
+641644,dreamy chai rice pudding,63.818,8.0,10,0.8,Media,media
+641650,dried cherryalmond scones,85.73733275675676,10.4,12,0.8666666666666667,Alta,media
+641651,dried fruit and ginger scones,49.414728340675474,9.8,11,0.890909090909091,Alta,económica
+641662,drop sugar cookies,20.398,6.2,7,0.8857142857142858,Alta,económica
+641726,dulce de leche brownies,82.08788888888888,7.8,9,0.8666666666666667,Alta,media
+641730,dulce de leche cheesecake,112.1439393939394,8.0,10,0.8,Media,alta
+641732,dulce de leche swirled amaretto frozen yogurt,3.08,2.6,3,0.8666666666666667,Alta,económica
+641745,dump cake,77.10444444444444,3.2,4,0.8,Media,media
+641755,durian panna cotta,45.15,4.4,6,0.7333333333333334,Media,económica
+641799,easter nest sweet cake with sour creamroyal icing and pistachios,63.48799111111111,8.8,10,0.8800000000000001,Alta,media
+641832,easy baked cheesecake,22.35,6.4,8,0.8,Media,económica
+641864,easy breezy fresh fruit pie,70.34518844836025,13.4,15,0.8933333333333333,Alta,media
+641878,easy caramel pecan brownies,96.10713484684683,5.6,6,0.9333333333333332,Alta,media
+641889,easy chewy mm cookies,64.98244444444444,8.8,10,0.8800000000000001,Alta,media
+641942,easy cream cheese pound cake,163.62366666666665,9.8,11,0.890909090909091,Alta,alta
+641993,easy homemade oreo cookies,86.65954352941176,6.8,8,0.85,Alta,media
+641998,easy homemade strawberry pie,23.44,8.8,10,0.8800000000000001,Alta,económica
+642003,easy key lime pie,112.88377777777777,6.4,8,0.8,Media,alta
+642133,easy turtle pumpkin pie,110.8354517117117,8.4,10,0.8400000000000001,Alta,alta
+642152,easy healthy peanut butter chocolate chip cookies,9.411470588235296,4.8,6,0.7999999999999999,Media,económica
+642245,eggfree cranberry thumbprints,81.92491336270191,9.4,11,0.8545454545454546,Alta,media
+642246,eggfree chocolate cupcakes,79.83044444444444,8.8,10,0.8800000000000001,Alta,media
+642251,eggless banana and cardamom ice cream,64.362,7.2,8,0.9,Alta,media
+642254,eggless brownies,52.98585585585585,9.4,11,0.8545454545454546,Alta,media
+642255,eggless chocolate brownies,74.5903116096096,10.2,11,0.9272727272727272,Alta,media
+642256,eggless cardamom and chocolate cheesecake,106.78324444444443,9.8,13,0.7538461538461539,Media,alta
+642259,eggless blueberry and white chocolate baked cheesecake,157.86589114047968,9.6,12,0.7999999999999999,Media,alta
+642413,english berry trifle,88.87848888888888,9.6,12,0.7999999999999999,Media,media
+642471,eton mess dessert,147.37709065364925,10.0,12,0.8333333333333334,Alta,alta
+642551,fall classic carrot cake,134.1442091503268,12.4,14,0.8857142857142858,Alta,alta
+642559,fallen chocolate cakes with spanish paprika,57.21111111111111,7.6,8,0.95,Alta,media
+642608,fast apple pie,143.93110545454545,9.2,10,0.92,Alta,alta
+642614,fast tiramisu,117.0796,6.6,9,0.7333333333333333,Media,alta
+642620,fat free gingerbread cookies,41.65612,16.8,20,0.8400000000000001,Alta,económica
+642636,fauxfried ice cream,79.62647058823529,4.8,6,0.7999999999999999,Media,media
+642648,favorite moist chocolate cake,109.95088805389996,12.6,15,0.84,Alta,alta
+642771,fig and almond cupcakes,47.41088235294117,10.2,13,0.7846153846153846,Media,económica
+642780,fig and walnut pudding,31.00675675675676,5.8,7,0.8285714285714285,Alta,económica
+643104,florentine cookies with added pistachios raisins,74.14594594594595,7.2,8,0.9,Alta,media
+643117,flourless peanut butter cookies,22.0,3.8,5,0.76,Media,económica
+643119,flourless apple macadamia cookies,79.08502702702704,6.6,7,0.9428571428571428,Alta,media
+643125,flourless chocolate cake with chai whipped cream,87.94966666666667,9.4,11,0.8545454545454546,Alta,media
+643129,flawless chocolate fudge,69.7188888888889,6.6,7,0.9428571428571428,Alta,media
+643244,fouringredient blueberry frozen yogurt,43.81211839207048,3.2,4,0.8,Media,económica
+643385,french quarter bananas foster cupcakes,113.13777777777776,11.8,13,0.9076923076923078,Alta,alta
+643394,french silk chocolate cake,117.91804444444443,13.4,15,0.8933333333333333,Alta,alta
+643400,french style almond saffron cake,125.74777777777776,9.6,12,0.7999999999999999,Media,alta
+643445,fresh cherry clafoutis,55.37638888888889,12.0,14,0.8571428571428571,Alta,media
+643450,fresh cherry scones,67.39849312039313,10.2,13,0.7846153846153846,Media,media
+643571,fresh plum cake,89.31777777777776,7.8,9,0.8666666666666667,Alta,media
+643615,fresh strawberry yogurt cake,148.18957193076133,9.2,10,0.92,Alta,alta
+643877,fromage blanc cheesecake,141.12404444444445,8.4,10,0.8400000000000001,Alta,alta
+643885,frosted pumpkin cookies,53.573,14.2,17,0.8352941176470587,Alta,media
+643911,frozen key lime cheesecake bars,50.9376,5.0,7,0.7142857142857143,Media,media
+643916,frozen mojito pie,75.71666666666667,5.6,8,0.7,Media,media
+643931,frozen yogurt shortbread bars coconut chocolate,79.89020606060606,10.2,11,0.9272727272727272,Alta,media
+643939,fruit and nut brittle,95.26712951938724,8.4,10,0.8400000000000001,Alta,media
+643972,fruit crepe,53.84,4.6,5,0.92,Alta,media
+643993,fruit loop whoopie pies,51.778,14.2,17,0.8352941176470587,Alta,media
+644051,fudge brownie bites with cherry mousse,95.83036235294118,9.6,12,0.7999999999999999,Media,media
+644081,fudgy chocolate cream cheese brownies with baileys,92.2178888888889,8.4,10,0.8400000000000001,Alta,media
+644477,german lemon cake with cranberry aka cranberry zitronenkuchen,59.380121145374446,8.4,10,0.8400000000000001,Alta,media
+644488,german rhubarb cake with meringue,61.709880000000005,11.2,12,0.9333333333333332,Alta,media
+644504,german white chocolate cake,110.94595795795796,11.2,12,0.9333333333333332,Alta,alta
+644589,ginger ice cream cookie stack,24.69,5.0,7,0.7142857142857143,Media,económica
+644639,ginger snap pumpkin icebox cake,67.10000000000001,6.6,9,0.7333333333333333,Media,media
+644641,ginger snap apple crisp,37.33444444444444,6.2,7,0.8857142857142858,Alta,económica
+644642,ginger snap and pumpkin ice cream sandwiches,183.11354666666665,19.6,22,0.890909090909091,Alta,alta
+644645,ginger snaps,44.93,8.4,10,0.8400000000000001,Alta,económica
+644666,gingerlemon panna cotta with brandied berry sauce,106.6683087155567,17.2,22,0.7818181818181817,Media,alta
+644730,glazed apple tart,34.50434644444444,12.2,15,0.8133333333333332,Alta,económica
+644733,glazed banana bread bundt cake,101.23024844444444,12.0,14,0.8571428571428571,Alta,alta
+644751,glazed lemon blueberry cake,134.00002447381303,9.8,11,0.890909090909091,Alta,alta
+644782,gluten and dairy free peanut butter cups,59.45,3.2,4,0.8,Media,media
+644783,gluten and dairy free chocolate cupcakes,105.87733333333333,10.2,13,0.7846153846153846,Media,alta
+644789,gluten free apple strudel,22.01,10.2,13,0.7846153846153846,Media,económica
+644819,gluten free dairy free chocolate dipped coconut macaroons,60.97,4.2,5,0.8400000000000001,Alta,media
+644825,gluten free dairy free pumpkin spice cupcakes,49.67794117647059,19.8,23,0.8608695652173913,Alta,económica
+644854,gluten free quinoa and corn flour crepes,35.01,7.0,9,0.7777777777777778,Media,económica
+644861,gluten free yellow cake and cupcakes,103.9414,13.0,15,0.8666666666666667,Alta,alta
+644878,glutenfree chocolatepecan quickbread,93.02236281736282,11.2,12,0.9333333333333332,Alta,media
+644900,glutenfree pressed lemon butter cookies,123.97166666666666,6.4,8,0.7999999999999999,Media,alta
+644901,glutenfree rhubarb lemon and almond cake,71.1361111111111,7.4,9,0.8222222222222223,Alta,media
+644907,glutenfree tres leches cake,83.84778267254038,16.6,19,0.8736842105263158,Alta,media
+645068,gooey chocolate buttermilk sheet cake,74.6021596862745,11.8,13,0.9076923076923078,Alta,media
+645145,grandma bs rhubarb cake,98.19837837837838,11.0,13,0.8461538461538461,Alta,media
+645146,molasses kringle cookies,44.333,12.4,14,0.8857142857142858,Alta,económica
+645147,grandma inezs pineapple pie,49.52106666666667,12.0,14,0.8571428571428571,Alta,económica
+645152,grandmas apple crisp,45.655,7.399999999999999,9,0.8222222222222222,Alta,económica
+645365,greek style honey and pistachio cake,109.03427157103629,11.8,15,0.7866666666666667,Media,alta
+645479,green monster ice pops,53.086,4.8,6,0.7999999999999999,Media,media
+646033,guinness beer cupcakes,66.95266666666666,8.4,10,0.8400000000000001,Alta,media
+646361,hawaiian cookie tarts,56.703,8.4,10,0.8400000000000001,Alta,media
+646385,hazelnut coconut shortbread sandwich cookies,92.00526726726729,6.6,7,0.9428571428571428,Alta,media
+646402,hazelnut mexican chocolate biscotti,60.96085475675676,10.8,12,0.9,Alta,media
+646426,vegan peanut butter ice cream,4.75,3.6,4,0.9,Alta,económica
+646461,healthy chocolate fudge bread,28.775454545454544,9.0,11,0.8181818181818182,Alta,económica
+646484,healthy hazelnut cookies,20.63545751633987,6.4,8,0.8,Media,económica
+646486,healthy key lime pie milkshake,15.074470588235291,6.0,8,0.75,Media,económica
+646491,healthy mint brownies,80.30929286435749,20.2,25,0.8079999999999999,Alta,media
+646524,healthy vegan red velvet brownies,40.358,7.8,11,0.7090909090909091,Media,económica
+646541,heart healthy wholegrain brownies,52.997297933227344,11.4,13,0.8769230769230769,Alta,media
+646825,holiday cookies,106.38818018018016,7.6,8,0.95,Alta,alta
+646868,home made coffee ice cream,67.25399999999999,5.2,6,0.8666666666666667,Alta,media
+646873,home made ghirardelli chocolate peanut butter cups,62.66666666666667,4.6,5,0.92,Alta,media
+646905,homemade animal crackers,57.01244444444444,9.8,11,0.890909090909091,Alta,media
+647002,homemade funfetti cupcakes,140.79748977777777,10.6,11,0.9636363636363636,Alta,alta
+647046,homemade oatmeal cream pies,79.64488888888889,11.6,14,0.8285714285714285,Alta,media
+647068,homemade pineapple ice cream,83.962,6.6,7,0.9428571428571428,Alta,media
+647366,hostess sno ball cupcakes,103.76528,13.4,17,0.788235294117647,Media,alta
+647579,how to make ice cream without an ice cream maker,49.63352,5.0,7,0.7142857142857143,Media,económica
+647693,ice cream biscuits,113.09133333333332,8.8,10,0.8800000000000001,Alta,alta
+647895,individual tiramisu parfaits,36.008,6.6,9,0.7333333333333333,Media,económica
+647928,insanely chocolaty chewable sandwich cookies,70.0540450803745,12.0,14,0.8571428571428571,Alta,media
+648004,irish soda bread with raisins,41.98984444444444,6.8,8,0.85,Alta,económica
+648006,irish soda bread by mommie cooks,51.00833333333333,6.8,8,0.85,Alta,media
+648010,irish whiskey pie,87.3,9.4,11,0.8545454545454546,Alta,media
+648119,italian fig cookies,198.3320672672673,11.0,13,0.8461538461538461,Alta,alta
+648183,italian panna cotta,18.313333333333333,4.2,5,0.8400000000000001,Alta,económica
+648192,italian pistachio cupcake with buttercream icing and simple sugar,137.50861711711713,12.4,14,0.8857142857142858,Alta,alta
+648389,jam tarts,54.210704444444445,4.4,6,0.7333333333333334,Media,media
+648453,janets st regis pecan pie with honey glazed pecans,122.37827027027026,10.2,11,0.9272727272727272,Alta,alta
+648461,japanese chiffon cake,51.82597222222222,5.8,7,0.8285714285714285,Alta,media
+648632,jules banana bread,41.80472552941177,9.8,11,0.890909090909091,Alta,económica
+648640,julia childs plum clafouti,70.6236,7.8,9,0.8666666666666667,Alta,media
+648660,just another tiramisu,60.1,5.6,8,0.7,Media,media
+648692,kahlua chocolate cupcakes with kahlua frosting,84.10388888888889,7.4,9,0.8222222222222223,Alta,media
+648698,kahlua tiramisu,66.956,5.6,8,0.7,Media,media
+648798,kcs oreo cheesecake,77.87244444444444,6.8,8,0.85,Alta,media
+648864,kick butt apple pie,29.52222222222222,11.4,13,0.8769230769230769,Alta,económica
+648939,kitchen cabinet coffee cake,118.51453453453452,11.2,12,0.9333333333333332,Alta,alta
+648972,kiwifruit lime cupcakes,46.2459084084084,9.2,10,0.92,Alta,económica
+649056,korean honey citron tea cheesecake,170.86388888888888,9.2,12,0.7666666666666666,Media,alta
+649330,lawnmower coconut cupcakes,126.12,14.2,17,0.8352941176470587,Alta,alta
+649348,layered dessert,71.96000000000001,3.8,5,0.76,Media,media
+649381,lazy cobbler,4.388888888888888,3.2,4,0.8,Media,económica
+649390,lean dessert brownie,122.69377777777775,8.799999999999999,12,0.7333333333333333,Media,alta
+649419,leche flan caramel flan,32.758,5.0,5,1.0,Alta,económica
+649483,lemon sour cream pound cake,97.08777777777776,9.4,11,0.8545454545454546,Alta,media
+649514,lemon bars,85.32342342342342,6.8,8,0.85,Alta,media
+649541,lemon cake roll with lemon curd filling,42.20666666666666,9.4,11,0.8545454545454546,Alta,económica
+649593,lemon cupcakes,67.24833333333333,5.6,6,0.9333333333333332,Alta,media
+649596,lemon curd custard ice cream,81.14133333333334,8.4,10,0.8400000000000001,Alta,media
+649598,lemon curd cheesecake,94.90021333333333,9.2,12,0.7666666666666666,Media,media
+649602,lemon curd pavlova,162.167304473813,15.0,19,0.7894736842105263,Media,alta
+649603,lemon curd layered cupcakes with strawberry frosting,77.08376888888888,11.2,12,0.9333333333333332,Alta,media
+649604,lemon curd layer cake,50.65,5.0,7,0.7142857142857143,Media,media
+649641,lemon glazed madeleine,63.48855555555554,8.8,10,0.8800000000000001,Alta,media
+649673,lemon madeleines,43.09,6.2,7,0.8857142857142858,Alta,económica
+649684,lemon meringue cookies,9.88,3.2,4,0.8,Media,económica
+649690,lemon mint sorbet,91.8,5.0,7,0.7142857142857143,Media,media
+649708,lemon party cheesecake,16.81094117647059,4.8,6,0.7999999999999999,Media,económica
+649740,lemon poppy seed pound cake,97.15521333333334,10.6,13,0.8153846153846154,Alta,media
+649748,lemon pudding pie,73.9,9.0,11,0.8181818181818182,Alta,media
+649749,lemon pudding,89.37351351351352,6.4,8,0.8,Media,media
+649751,lemon powder cookies,93.58777777777776,8.8,10,0.8800000000000001,Alta,media
+649755,lemon quick bread,42.20254545454546,11.0,13,0.8461538461538461,Alta,económica
+649785,lemon snowball cookies,54.70842342342343,9.0,11,0.8181818181818182,Alta,media
+649808,lemon thumbprint cookies,61.43333333333333,6.8,8,0.85,Alta,media
+649853,lemonpoppy seed scones,60.37444444444444,8.4,10,0.8400000000000001,Alta,media
+649856,lemonade bundt cake,54.4,6.0,8,0.75,Media,media
+649880,lemony blueberry banana bread,65.00272868618812,9.2,10,0.92,Alta,media
+650169,little apricot cakes,47.44133333333333,9.8,11,0.890909090909091,Alta,económica
+650325,loquat pie,57.735,6.8,8,0.85,Alta,media
+650431,lowfat oatmeal banana bread,31.063235294117646,9.8,11,0.890909090909091,Alta,económica
+650471,luscious avocado ice cream with lemon juice,27.05227272727273,6.4,8,0.8,Media,económica
+650479,luscious lemon bars,61.60111111111111,6.8,8,0.85,Alta,media
+650482,luscious lemon souffl pudding,44.288,9.8,11,0.890909090909091,Alta,económica
+650499,lychee granita,44.38312,4.0,6,0.6666666666666666,Media,económica
+650573,macaroon cookies,100.33333333333331,3.8,5,0.76,Media,alta
+650581,macha macarons,7.0600000000000005,4.8,6,0.7999999999999999,Media,económica
+650601,madeleines,50.844111111111104,5.6,6,0.9333333333333332,Alta,media
+650602,madeleines with irish whiskey fudge,48.31111111111111,7.4,9,0.8222222222222223,Alta,económica
+650620,magic cookie bars,332.5936936936937,5.2,6,0.8666666666666667,Alta,premium
+650718,mandarin and ruby red grapefruit tiramisu,17.42,5.0,7,0.7142857142857143,Media,económica
+650751,mango avocado ice cream,12.39,3.8,5,0.76,Media,económica
+650772,mango cranberry sherbet,66.34312334801763,5.8,7,0.8285714285714285,Alta,media
+650812,mango peach cobbler,27.399444444444445,10.0,12,0.8333333333333334,Alta,económica
+650852,mangorefrigerator cake,6.558,3.6,4,0.9,Alta,económica
+650939,mapleglazed apple cookies,73.62888888888888,11.8,13,0.9076923076923078,Alta,media
+650946,maplenut oatmeal cream pies,134.53346193252077,16.2,19,0.8526315789473684,Alta,alta
+650959,marbled green tea yogurt cake,117.42842929292928,11.0,13,0.8461538461538461,Alta,alta
+650965,mardi gras cupcakes,191.51443790849672,12.6,15,0.84,Alta,alta
+651140,marshmallow smores bites,146.52466666666666,7.2,8,0.9,Alta,alta
+651189,mascarpone ricotta cheese cake,99.61471171171172,11.0,13,0.8461538461538461,Alta,media
+651250,matcha kasutera honey sponge cake,23.5625,3.8,5,0.76,Media,económica
+651389,medenjaci croatian honey spice cookies,124.31668168168169,11.4,13,0.8769230769230769,Alta,alta
+651434,mediterranean semolina cake,77.81091992744234,10.8,14,0.7714285714285715,Media,media
+651724,glutenfree fruity crumble,39.18451951951952,7.8,9,0.8666666666666667,Alta,económica
+651755,meyer lemon strawberry ice cream,49.68848888888888,4.6,5,0.92,Alta,económica
+651757,meyer lemon cheesecake,150.18888888888887,7.6,10,0.76,Media,alta
+651758,meyer lemon biscotti with dried wild blueberries,39.13180031614408,7.4,9,0.8222222222222223,Alta,económica
+651769,meyer lemon sorbet,48.45,4.4,6,0.7333333333333334,Media,económica
+651773,meyer lemony apple crumble,46.14664,7.4,9,0.8222222222222223,Alta,económica
+651837,midnight crackles cookies,101.68333333333334,8.8,10,0.8800000000000001,Alta,alta
+651893,million dollar caramel cookies,105.74377777777777,9.4,11,0.8545454545454546,Alta,alta
+651930,mini bournvita bundt cakes,12.355,9.4,11,0.8545454545454546,Alta,económica
+651940,mini cherry cordial cupcakes,126.6250653594771,12.0,14,0.8571428571428571,Alta,alta
+651945,mini chocolate pudding oreo cheesecakes,56.898,5.8,7,0.8285714285714285,Alta,media
+651966,mini mixed fruit cake,105.62359248876427,8.8,10,0.8800000000000001,Alta,alta
+651975,mini spiced apple tarts with chocolate,53.56821333333333,15.0,17,0.8823529411764706,Alta,media
+651984,mini tofu chiffon cake,17.643529411764707,8.2,9,0.911111111111111,Alta,económica
+651985,mini tiramisu for two 4 spring form pans,35.800666666666665,7.6,10,0.76,Media,económica
+651989,ministrawberry cheesecakes,123.86149739598628,7.6,8,0.95,Alta,alta
+651990,minicherry pies,149.91173453453453,9.6,12,0.7999999999999999,Media,alta
+651991,miniature cheese cakes,12.358,4.2,5,0.8400000000000001,Alta,económica
+652001,mint chocolate chia pudding,12.89,3.4,5,0.6799999999999999,Media,económica
+652007,mint chocolate cupcakes,178.31768888888888,9.8,11,0.890909090909091,Alta,alta
+652017,mint oreo brownies,168.69387577777778,7.8,9,0.8666666666666667,Alta,alta
+652155,mocca cupcakes with dried fruit,93.71009009009008,8.0,10,0.8,Media,media
+652176,mocha layer cake with chocolaterum cream filling,151.70143133333335,12.8,16,0.8,Media,alta
+652225,moist carrot cake,193.83421019607843,14.0,16,0.875,Alta,alta
+652260,molasses ginger cookies,35.296,8.4,10,0.8400000000000001,Alta,económica
+652284,molten chocolate liquor cakes,23.85,6.6,7,0.9428571428571428,Alta,económica
+652345,monogram cookies,104.3852222222222,8.2,9,0.911111111111111,Alta,alta
+652377,moon pies,83.10888888888888,10.4,12,0.8666666666666667,Alta,media
+652434,moroccan orange and almond cake,71.0779911111111,8.2,11,0.7454545454545454,Media,media
+652929,namachokobanana crepe,9.0,3.2,4,0.8,Media,económica
+652952,napoleon a creamy puff pastry cake,28.34,4.6,5,0.92,Alta,económica
+652976,naturally sweet apple turnovers,54.84888888888889,16.2,19,0.8526315789473684,Alta,media
+652985,neahs fresh apple cake,82.67252146263911,11.6,12,0.9666666666666668,Alta,media
+653005,neiman marcus oatmeal chocolate chip cookies,401.7720960960961,11.8,13,0.9076923076923078,Alta,premium
+653054,new orleans goat cheesecake,141.2943111111111,8.6,11,0.7818181818181817,Media,alta
+653127,no bake chocolate peanut butter oatmeal cookies,29.668,6.4,8,0.8,Media,económica
+653138,no bake peppermint pie,68.7944,8.6,11,0.7818181818181817,Media,media
+653178,nobake banana split pie,73.36562133333334,9.0,11,0.8181818181818182,Alta,media
+653185,nobake chocolate peanut butter pie,27.5,7.399999999999999,11,0.6727272727272727,Media,económica
+653195,nobake peanut butter and oatmeal cookies,103.96244444444444,5.8,7,0.8285714285714285,Alta,alta
+653200,nobake toasted coconut chocolate cake with chocolate macaroon cookies,82.77655262321144,7.0,9,0.7777777777777778,Media,media
+653352,nutella brownies,59.44244444444443,6.6,7,0.9428571428571428,Alta,media
+653442,oatmeal brownie bars,131.70009803921567,8.0,10,0.8,Media,alta
+653443,oatmeal butterscotch pies,105.94197009009008,9.4,11,0.8545454545454546,Alta,alta
+653445,oatmeal coconut cookies,47.528888888888886,7.0,9,0.7777777777777778,Media,económica
+653447,oatmeal coconut cake,92.2192012012012,13.0,15,0.8666666666666667,Alta,media
+653455,oatmeal cranberry cookies,99.45137004405288,12.4,14,0.8857142857142858,Alta,media
+653570,old fashioned chocolate pie,55.73066666666666,8.8,10,0.8800000000000001,Alta,media
+653610,oldfashioned oatmeal raisin pecan cookies,155.63053453453452,10.4,12,0.8666666666666667,Alta,alta
+653644,olive oil cake with brown butter glaze,66.91299205087441,15.0,17,0.8823529411764706,Alta,media
+653728,onion jam tartlets,86.87722222222222,9.4,11,0.8545454545454546,Alta,media
+653836,orange chocolate cake,88.18466666666666,10.0,12,0.8333333333333334,Alta,media
+653841,orange choco chip cake,38.8705,6.8,8,0.85,Alta,económica
+653854,orange creme brulee,112.116,6.4,8,0.8,Media,alta
+653886,orange honey madeleines,27.50333333333333,6.4,8,0.7999999999999999,Media,económica
+653907,orange liqueur cointreau brownies,94.76390444444444,10.0,12,0.8333333333333334,Alta,media
+653955,orange semolina cake,48.528000000000006,7.8,9,0.8666666666666667,Alta,económica
+653977,orange zest maple date bars,96.99576888888888,8.2,11,0.7454545454545454,Media,media
+653984,orangealmond cake,38.748378378378376,7.8,9,0.8666666666666667,Alta,económica
+654017,oreo bon bons,109.1,3.8,5,0.76,Media,alta
+654018,oreo cake,67.39444444444445,3.8,5,0.76,Media,media
+654028,oreo cookies cream nobake cheesecake,63.06248,5.4,7,0.7714285714285715,Media,media
+654034,oreo mini cheesecake,29.478,5.8,7,0.8285714285714285,Alta,económica
+654045,organic berry crostata,15.92,4.6,5,0.92,Alta,económica
+654061,organic strawberry cupcakes,68.25454631669113,9.6,10,0.96,Alta,media
+654124,osmanthus tea mousse,37.53,6.2,9,0.6888888888888889,Media,económica
+654429,pan seared apple almond cake,28.86870588235294,10.2,11,0.9272727272727272,Alta,económica
+654512,pandan chiffon cake,31.05064705882353,9.4,11,0.8545454545454546,Alta,económica
+654516,pandan thumbprint biscuits,27.569444444444443,8.4,10,0.8400000000000001,Alta,económica
+654567,panna cotta with apricot sauce,62.8096,6.8,8,0.85,Alta,media
+654571,panna cotta with raspberry and orange sauce,49.78149339207048,6.8,8,0.85,Alta,económica
+655031,pavlova or palova,34.870000000000005,6.8,8,0.85,Alta,económica
+655041,pb chocolate cookie bars,148.1691111111111,7.8,9,0.8666666666666667,Alta,alta
+655043,pb cup stuffed brownie bites,69.01476470588236,8.6,9,0.9555555555555556,Alta,media
+655062,peach and blueberry crisp,73.88890402402401,15.0,17,0.8823529411764706,Alta,media
+655064,peach and almond puff pastry tarts,35.13333333333333,4.8,6,0.7999999999999999,Media,económica
+655098,peach coconut ice cream,32.5,2.6,3,0.8666666666666667,Alta,económica
+655103,peach crostata,12.768333333333334,6.2,7,0.8857142857142858,Alta,económica
+655132,peach melba clafoutis,86.91346804405286,8.2,9,0.911111111111111,Alta,media
+655145,peach pie,81.724,5.4,7,0.7714285714285715,Media,media
+655146,peach pineapple upsidedown cake,79.38000000000001,5.8,7,0.8285714285714285,Alta,media
+655178,peachginger sorbet,26.29375,5.4,7,0.7714285714285715,Media,económica
+655189,peaches and cream pound cake,96.64688888888888,9.4,11,0.8545454545454546,Alta,media
+655221,peanut butter and chocolate pie,113.6583783783784,7.4,9,0.8222222222222223,Alta,alta
+655249,peanut butter button cookies,40.678,8.2,9,0.911111111111111,Alta,económica
+655260,peanut butter chocolate and banana chip cookies,81.62628888888888,12.0,14,0.8571428571428571,Alta,media
+655279,peanut butter cookie bars,114.60265777777778,10.0,12,0.8333333333333334,Alta,alta
+655282,peanut butter cookies with flax seeds and chocolate,35.32488,6.2,7,0.8857142857142858,Alta,económica
+655300,peanut butter cup trifle,51.6,5.2,8,0.65,Media,media
+655308,peanut butter filled chocolate cupcakes with chocolate ganache frosting,150.36976,14.2,17,0.8352941176470587,Alta,alta
+655314,peanut butter ice cream,65.53035675675676,8.2,9,0.911111111111111,Alta,media
+655322,peanut butter kisses cookies,49.56,4.2,5,0.8400000000000001,Alta,económica
+655330,peanut butter rice krispie treats,209.39444444444445,4.4,6,0.7333333333333333,Media,premium
+655337,peanut butter truffle brownies,79.80182222222223,5.8,7,0.8285714285714285,Alta,media
+655340,peanut butter swirl banana bread,49.51027272727273,9.6,12,0.7999999999999999,Media,económica
+655347,peanut butteroatmeal chocolate chip cookies,74.18444444444444,10.4,12,0.8666666666666667,Alta,media
+655353,peanut cookies,48.057941176470585,6.6,7,0.9428571428571428,Alta,económica
+655384,peanutbutter sandwich cookies,80.91526726726727,11.8,13,0.9076923076923078,Alta,media
+655392,pear and apple crumble,42.50151351351352,9.8,11,0.890909090909091,Alta,económica
+655406,pear and walnut coffee cake,108.30706906906906,18.2,21,0.8666666666666666,Alta,alta
+655455,pearginger upsidedown cake,99.12444444444444,11.8,13,0.9076923076923078,Alta,media
+655500,pecan cinnamon raisin crisps,47.98837837837838,8.6,11,0.7818181818181817,Media,económica
+655514,pecan pie cheesecake,104.78318018018018,8.4,10,0.8400000000000001,Alta,alta
+655525,pecan pumpkin pie dessert pizza with maple whipped cream,86.18612612612613,6.0,8,0.75,Media,media
+655668,peppermint brookie pies gluten free dairy free,62.970600000000005,16.4,20,0.82,Alta,media
+655687,peppermint white chocolate fudge,50.0,3.4,5,0.6799999999999999,Media,económica
+655735,perfect old fashioned peach cobbler,126.61777777777776,10.4,12,0.8666666666666667,Alta,alta
+655740,classic apple pie with perfect crust,35.49666666666667,13.6,16,0.85,Alta,económica
+655787,persimmons tofu parfait,29.683567567567568,6.0,8,0.75,Media,económica
+656200,pineapple upside down cupcakes,60.46499111111111,9.2,10,0.92,Alta,media
+656248,pinot noir brownies,99.50707697897896,14.0,16,0.875,Alta,media
+656297,pistachio milk chocolate chip cookies,169.77415915915915,9.8,11,0.890909090909091,Alta,alta
+656444,plum cake,67.29064564564564,7.2,8,0.9,Alta,media
+656569,polish rugelach,75.00903371267742,8.4,10,0.8400000000000001,Alta,media
+656684,poppy seed crazy cake,22.753117647058826,9.4,11,0.8545454545454546,Alta,económica
+657060,pound cake with cream cheese,157.06066666666666,7.2,8,0.9,Alta,alta
+657267,pumpkin cheesecake squares,111.34066666666666,11.6,14,0.8285714285714285,Alta,alta
+657274,pumpkin coffee cake,119.91427453453451,14.0,16,0.875,Alta,alta
+657295,pumpkin dessert with butterscotchrum sauce,65.22466666666666,7.0,9,0.7777777777777778,Media,media
+657341,pumpkin pecan streusel cake gluten free soy free vegan,99.93675675675676,15.2,18,0.8444444444444444,Alta,media
+657351,pumpkin pie ice cream,50.498,4.8,6,0.7999999999999999,Media,media
+657369,pumpkin raisin cake,93.84444444444443,9.4,11,0.8545454545454546,Alta,media
+657395,pumpkin spice quick bread,55.66888888888888,7.2,8,0.9,Alta,media
+657563,quick apple ginger pie,16.4,8.8,10,0.8800000000000001,Alta,económica
+657596,quick fix microwave brownie,17.901666666666667,7.6,8,0.95,Alta,económica
+657768,raisin scones,44.97195466666666,6.2,7,0.8857142857142858,Alta,económica
+657842,raspberry cheesecake bars by mommie cooks,184.0773822809593,13.6,16,0.85,Alta,alta
+657850,raspberry cupcakes with raspberry icing,76.84313474993522,9.8,11,0.890909090909091,Alta,media
+657889,raspberry peach crisp,80.0025,7.4,9,0.8222222222222223,Alta,media
+657907,raspberry thumbprint wholewheat scones with macadamia nuts,68.26466554450926,15.4,17,0.9058823529411764,Alta,media
+657912,raspberry truffle cake,105.1888888888889,6.2,7,0.8857142857142858,Alta,alta
+657917,raspberry walnut coffee cake,33.18761367249603,11.0,13,0.8461538461538461,Alta,económica
+657965,raw banana ice cream cups,14.783790849673204,11.2,14,0.7999999999999999,Media,económica
+658004,raw vegan blueberry chocolate crust cheesecake,115.47406878970186,11.2,14,0.7999999999999999,Media,alta
+658007,raw vegan chocolate and raspberry cake,152.2239105845934,8.6,11,0.7818181818181817,Media,alta
+658019,real strawberry poke cake,124.02749339207048,12.0,14,0.8571428571428571,Alta,alta
+658101,red velvet baby cakes,52.16564705882353,9.4,11,0.8545454545454546,Alta,media
+658108,red velvet cupcake,154.22266666666667,12.4,14,0.8857142857142858,Alta,alta
+658132,reduced fat blueberry cheesecake crepes,56.04891336270191,9.2,10,0.92,Alta,media
+658140,reeses peanut butter chocolate chip cookies,50.5,2.0,2,1.0,Alta,media
+658150,refreshing key lime pie,103.53666666666666,5.4,7,0.7714285714285715,Media,alta
+658177,repost japanese cotton cheesecake,93.44155555555557,8.8,10,0.8800000000000001,Alta,media
+658193,rhubarb crisp,99.87532282282282,8.2,9,0.911111111111111,Alta,media
+658259,rice krispie treats with maple syrup and brown sugar,243.19564564564564,6.4,8,0.8,Media,premium
+658276,rice pudding,71.20444444444443,9.2,10,0.92,Alta,media
+658300,rich jelly scones,61.28588888888888,10.8,12,0.9,Alta,media
+658326,ricotta chocolate chips scones,25.744166666666665,9.8,11,0.890909090909091,Alta,económica
+658339,ricotta orange pound cake with amaretto strawberries,85.77633333333333,10.0,12,0.8333333333333334,Alta,media
+658665,roasted strawberry coconut milk ice cream,85.10070748898679,5.0,5,1.0,Alta,media
+658668,roasted strawberry pie parfait,80.82894278310442,5.2,6,0.8666666666666667,Alta,media
+658798,rosemary olive oil cake with dark chocolate,41.98323529411765,9.2,10,0.92,Alta,económica
+658803,rosemary rum raisin soda bread with pecans,70.99317493857494,10.6,13,0.8153846153846154,Alta,media
+658820,rosewaterpistachio cupcakes,51.42363363363363,10.8,12,0.9,Alta,media
+658823,rosewater lavender shortbread,123.63666666666666,5.8,7,0.8285714285714285,Alta,alta
+658850,royal wedding pear and coriander scones,57.39666666666666,9.0,11,0.8181818181818182,Alta,media
+658855,rugelach,146.13142342342343,11.2,12,0.9333333333333332,Alta,alta
+658913,rustic blueberry cake clafoutis,89.5902867547724,9.2,10,0.92,Alta,media
+658936,smore bars,125.68888888888888,4.2,5,0.8400000000000001,Alta,alta
+658943,smores cupcakes,136.70204901960784,15.2,18,0.8444444444444444,Alta,alta
+658975,saffron infused rice pudding with sweetened whole wheat pancakes,27.733783783783785,11.4,13,0.8769230769230769,Alta,económica
+659196,salted caramel pecan shortbread,250.0574468468469,10.4,12,0.8666666666666667,Alta,premium
+659199,salted chocolate chunk cookies,89.56744444444445,9.2,10,0.92,Alta,media
+659463,savory cheese dill scones,64.76388888888889,9.2,12,0.7666666666666666,Media,media
+659605,scrumptious carrot cake,106.0974626391097,13.6,16,0.85,Alta,alta
+659613,scrumptious strawberry and almond tartlets,219.6005507269384,14.0,14,1.0,Alta,premium
+659858,shiraz chocolate lava pudding,41.52814117647058,8.4,10,0.8400000000000001,Alta,económica
+659867,sholeh zard saffron infused rice pudding,148.82342342342343,10.6,13,0.8153846153846154,Alta,alta
+659887,shortbread lemon cookies,61.14166666666666,5.8,7,0.8285714285714285,Alta,media
+660983,spiced pumpkin cheesecake,82.92466666666667,11.6,14,0.8285714285714285,Alta,media
+661011,spicy and savory pumpkin pie,90.40629426217662,15.6,20,0.78,Media,media
+661044,spicy carrot and orange whoopie pies,50.11888888888889,11.6,14,0.8285714285714285,Alta,media
+661629,sticky date pudding with toffee sauce,137.9964533333333,9.6,12,0.7999999999999999,Media,alta
+661633,sticky toffee pudding,120.40688888888889,10.0,12,0.8333333333333334,Alta,alta
+661721,strawberries and cream cake,52.63494444444444,10.2,11,0.9272727272727272,Alta,media
+661725,strawberries and cream scones,30.322286666666667,11.4,13,0.8769230769230769,Alta,económica
+661757,strawberry basil italian ice,69.8259911894273,2.8,4,0.7,Media,media
+661765,strawberry brie tartlets,15.408149779735684,6.0,8,0.75,Media,económica
+661833,strawberry mango crumble,51.69404933920704,8.4,10,0.8400000000000001,Alta,media
+661843,strawberry marshmallow mousse,58.61819383259912,3.8,5,0.76,Media,media
+661860,strawberry peach pie with sage and honey,15.25188,7.6,10,0.76,Media,económica
+661880,strawberry sauce tartlets,169.7047483113069,8.8,10,0.8800000000000001,Alta,alta
+661883,strawberry shortcake cobbler,214.4189406487785,9.8,11,0.890909090909091,Alta,premium
+661889,strawberry shortcake with homemade donuts,54.875,10.4,12,0.8666666666666667,Alta,media
+661908,strawberry upside down cakes with vanilla bean,28.640858642135267,12.0,14,0.8571428571428571,Alta,económica
+661912,strawberry vanilla bean cheesecake pudding pops,37.726,5.2,6,0.8666666666666667,Alta,económica
+661928,strawberrypineapple tartlets,117.38559226627508,11.8,13,0.9076923076923078,Alta,alta
+661930,strawberryraspberry cobbler,114.57822154478708,9.4,11,0.8545454545454546,Alta,alta
+662151,sugar cookies,98.75377777777776,7.2,8,0.9,Alta,media
+662208,summer berry pudding,13.85,3.8,5,0.76,Media,económica
+662348,super man cake with fluffy white topping,50.900000000000006,3.4,5,0.6799999999999999,Media,media
+662458,sweet and spicy blueberry molasses jam cookies gluten free too,63.77388888888888,15.2,18,0.8444444444444444,Alta,media
+662479,sweet and tart lemon bars,100.44737777777776,8.8,10,0.8800000000000001,Alta,alta
+662786,tahini cookies,42.50588235294118,5.2,6,0.8666666666666667,Alta,económica
+662871,tapioca pudding with pineapple and coconut,42.925,8.8,10,0.8800000000000001,Alta,económica
+662895,tarte aux pommes,21.498,6.2,7,0.8857142857142858,Alta,económica
+662930,tasty crunchy granola cakes,115.3785192144723,14.4,16,0.9,Alta,alta
+663059,texas brownies,97.10688888888888,11.0,13,0.8461538461538461,Alta,media
+663068,texas sheet pie,122.85748977777776,7.8,9,0.8666666666666667,Alta,alta
+663176,thaistyle sticky rice mango dessert shots,29.076,5.2,6,0.8666666666666667,Alta,económica
+663221,the best key lime pie,117.84928888888888,9.0,11,0.8181818181818182,Alta,alta
+663222,the best lemon bars in the world,85.06166666666667,9.8,11,0.890909090909091,Alta,media
+663229,the best raw chocolate chip cookies,60.313333333333325,6.4,8,0.8,Media,media
+663260,the classic brownie,100.2584024024024,8.0,8,1.0,Alta,alta
+663348,the ultimate frozen coconut ice cream with hard shell chocolate sauce,20.838235294117645,4.6,5,0.92,Alta,económica
+663351,the ultimate tiramisu,74.2,6.6,9,0.7333333333333333,Media,media
+663442,tipsy chocolate cupcakes with raspberry frosting,146.5043885865653,12.0,14,0.8571428571428571,Alta,alta
+663448,tiramisu infused with amaretto eggless,37.93244933920705,8.2,11,0.7454545454545454,Media,económica
+663462,toasted marshmallow ice cream,51.2,5.2,6,0.8666666666666667,Alta,media
+663689,torta di banana banana cake,99.38328282828282,7.2,8,0.9,Alta,media
+663748,traditional apple tart,56.41111111111111,4.2,5,0.8400000000000001,Alta,media
+663749,traditional almond biscotti,91.19702702702703,7.2,8,0.9,Alta,media
+663755,traditional battenberg cake,94.09543333333332,8.6,11,0.7818181818181817,Media,media
+663756,traditional banana bread,56.75666666666666,9.2,10,0.92,Alta,media
+663832,triple chocolate pumpkin pie,149.85688888888888,19.0,21,0.9047619047619048,Alta,alta
+663837,triple citrus cake,40.49888235294118,10.4,12,0.8666666666666667,Alta,económica
+663847,tropical carrot cake,87.738,9.4,11,0.8545454545454546,Alta,media
+663849,tropical citrus granita,96.06,5.0,7,0.7142857142857143,Media,media
+663858,tropical ice pops,48.423,4.2,5,0.8400000000000001,Alta,económica
+663861,tropical pineapple cupcakes,121.49455466666667,15.0,17,0.8823529411764706,Alta,alta
+663880,true vanilla ice cream,45.84,5.6,6,0.9333333333333332,Alta,económica
+664151,tuxedo brownie remake adapted from a pampered chef,27.04,4.2,5,0.8400000000000001,Alta,económica
+664152,tuxedo cake,104.3933267973856,14.6,17,0.8588235294117647,Alta,alta
+664246,upside down orange cake,50.98166666666667,7.8,9,0.8666666666666667,Alta,media
+664248,upside down peach cake with ginger infused maple cream sauce,58.305768888888885,8.8,10,0.8800000000000001,Alta,media
+664282,vanilla bean cupcakes,183.1023333333333,11.2,12,0.9333333333333332,Alta,alta
+664284,vanilla and lime flan by esperanza platas alvarez planet food mexico,60.61,6.2,7,0.8857142857142858,Alta,media
+664285,vanilla bean gelato,31.719999999999995,4.6,5,0.92,Alta,económica
+664288,vanilla bean melting moment cookies with caramel filling,75.68933333333332,7.2,8,0.9,Alta,media
+664311,vanilla cream cakes easy and fluffy holiday cakes,98.692,9.8,11,0.890909090909091,Alta,media
+664312,vanilla cupcakes sour cream chocolate ganache frosting,95.04488888888888,11.2,12,0.9333333333333332,Alta,media
+664318,vanilla honey cut out cookies,40.78688888888888,6.2,7,0.8857142857142858,Alta,económica
+664408,vegan chocolate banana pie,43.5,5.4,7,0.7714285714285715,Media,económica
+664411,vegan chocolate cupcakes,36.41776470588236,8.4,10,0.8400000000000001,Alta,económica
+664416,vegan chocolate raspberry cake,66.79212904897642,12.0,14,0.8571428571428571,Alta,media
+664429,vegan dirty chai pudding,26.3564,10.8,14,0.7714285714285715,Media,económica
+664448,vegan lemon cookies,19.865882352941178,8.6,11,0.7818181818181817,Media,económica
+664452,vegan mango chia seed mango coconut ice pops,31.502,5.2,6,0.8666666666666667,Alta,económica
+664454,vegan mini chocolate pumpkin pie,95.85722174880765,13.8,15,0.92,Alta,media
+664465,vegan oats flax crisps with coconut,28.110947294117647,10.6,13,0.8153846153846154,Alta,económica
+664473,vegan peanut butter chocolate fudge,38.34688888888888,4.8,6,0.7999999999999999,Media,económica
+664477,vegan pumpkin bundt cake,119.95815262321145,14.8,18,0.8222222222222223,Alta,alta
+664488,vegan strawberry shortcake served with vegan whipped cream,84.0826224410469,8.4,10,0.8400000000000001,Alta,media
+664489,vegan strawberry cupcakes,35.05388235294117,12.2,15,0.8133333333333332,Alta,económica
+664825,viennese biscuit,23.886888888888887,7.2,8,0.9,Alta,económica
+664870,vintage project strawberry sponge pie,16.855,5.6,6,0.9333333333333332,Alta,económica
+664963,warm lemon poppy seed cake with chocolate ganache center,105.50666666666666,7.2,8,0.9,Alta,alta
+664964,warm mixed berry crumb cake,236.5385669114048,10.8,12,0.9,Alta,premium
+664985,wasabi ice cream wasabi aisu,31.37,6.8,8,0.85,Alta,económica
+664994,water chestnut dessert,81.075,7.6,10,0.76,Media,media
+665155,white cake with marzipan and almonds,111.00507507507506,7.4,9,0.8222222222222223,Alta,alta
+665156,white cake with pear compote,40.333333333333336,6.4,8,0.8,Media,económica
+665164,white chocolate and fresh grated coconut cake,66.19888888888889,6.8,8,0.85,Alta,media
+665170,white chocolate cherry hand pies,69.2274696969697,12.0,14,0.8571428571428571,Alta,media
+665171,white chocolate candy corn mm brownie cookies,64.73294117647059,5.2,6,0.8666666666666667,Alta,media
+665172,white chocolate cheesecake with raspberries,98.02027333333332,9.4,11,0.8545454545454546,Alta,media
+665175,white chocolate cranberry macadamia nut cookies,97.82567011945866,11.2,12,0.9333333333333332,Alta,media
+665178,white chocolate cupcakes with pineapple,25.084,9.4,11,0.8545454545454546,Alta,económica
+665182,white chocolate macadamia banana bread,107.73005877957958,10.2,11,0.9272727272727272,Alta,alta
+665185,white chocolate mocha cookies,59.80466666666666,9.8,11,0.890909090909091,Alta,media
+665200,white chocolate walnut cookies,137.66429129129128,9.6,10,0.96,Alta,alta
+665203,white chocolatecranberry ice cream,60.2885616740088,6.6,7,0.9428571428571428,Alta,media
+665257,whole grain pumpkin bread,108.24014308426074,13.6,16,0.85,Alta,alta
+665271,whole wheat blueberry brownies,47.74024669603524,11.4,13,0.8769230769230769,Alta,económica
+665276,whole wheat chocolate chip cookies,95.10822222222222,9.2,10,0.92,Alta,media
+665303,wholemeal cake,58.79171247238428,9.6,10,0.96,Alta,media
+665310,whoopie pies pumpkin,83.68976470588235,11.4,13,0.8769230769230769,Alta,media
+665330,wild blackberry sorbet with garden mint lavender,60.46674008810572,4.4,6,0.7333333333333334,Media,media
+665391,winter spiced pear cake gluten free,60.27044444444444,15.0,17,0.8823529411764706,Alta,media
+665463,xocai healthy chocolate ice cream,42.82224669603524,4.2,5,0.8400000000000001,Alta,económica
+665468,xocai healthy chocolate pie,29.846065777777778,7.8,9,0.8666666666666667,Alta,económica
+665470,healthy chocolate mousse,49.9996,4.2,5,0.8400000000000001,Alta,económica
+665476,xocai healthy dark chocolate brownies,121.39484684684685,8.0,8,1.0,Alta,alta
+665482,xocai no bake cookies,132.60202402402402,6.6,7,0.9428571428571428,Alta,alta
+665483,xocai nugget pudding,82.9436,4.8,6,0.7999999999999999,Media,media
+665484,xocai oatmeal dark chocolate nobake cookies,110.96688888888887,6.2,7,0.8857142857142858,Alta,alta
+665537,yoghurt honey madeleines,31.254494949494948,6.2,7,0.8857142857142858,Alta,económica
+665538,yoders peanut butter pie,98.54466666666669,9.4,11,0.8545454545454546,Alta,media
+665540,yogurt cake,59.43136171122995,9.2,10,0.92,Alta,media
+665553,yogurt mousse with raspberry sauce,110.42353223868642,6.8,8,0.85,Alta,alta
+665660,zingy lemon raspberry cupcakes,198.37911111111111,14.6,17,0.8588235294117647,Alta,alta
+665672,zomppas french apple tart,35.599999999999994,6.4,8,0.7999999999999999,Media,económica
+665687,zomppas whoopie pies,127.73688888888888,5.6,6,0.9333333333333332,Alta,alta
+665827,oh my pumpkin pie macarons,49.81666666666667,8.6,11,0.7818181818181817,Media,económica
+666225,easy mango tart recipe,28.308333333333334,8.4,10,0.8400000000000001,Alta,económica
+673442,no bake cookies,96.93844444444444,6.8,8,0.85,Alta,media
+674272,grand apple and cinnamon biscuits,40.067073333333326,7.2,8,0.9,Alta,económica
+715378,strawberry and nutella cobbler,63.4036167400881,9.4,11,0.8545454545454546,Alta,media
+715381,creamy lime pie square bites,37.08676466666667,4.2,5,0.8400000000000001,Alta,económica
+715411,chocolate mint marble bark with almonds,16.756756756756758,3.8,5,0.76,Media,económica
+715439,oreo cookie balls snowman,121.0,4.4,6,0.7333333333333334,Media,alta
+715452,delicious triple chocolate bundt cake,37.0,3.2,4,0.8,Media,económica
+715483,ultimate chocolate chunk cookies,105.7192992012012,9.6,10,0.96,Alta,alta
+715541,pink lemonade crinkle cookies,74.19333333333333,8.0,10,0.8,Media,media
+715569,strawberry cheesecake chocolate crepes,84.81414170337739,11.4,13,0.8769230769230769,Alta,media
+715629,lemon curd cookies,11.933,6.6,7,0.9428571428571428,Alta,económica
+716272,nutella crepes and ice cream,30.42333333333333,10.2,11,0.9272727272727272,Alta,económica
+716347,90 second cookie in a bowl,12.336333333333332,7.6,8,0.95,Alta,económica
+716367,vanilla pound cake,90.53649494949494,9.6,10,0.96,Alta,media
+716379,chocolate coconut banana bread,102.306978,8.8,10,0.8800000000000001,Alta,alta
+716407,simple whole wheat crepes,34.83,5.2,6,0.8666666666666667,Alta,económica
+716410,cannoli ice cream w pistachios dark chocolate,42.69837837837838,6.6,7,0.9428571428571428,Alta,económica
+716411,snickerdoodle ice cream,37.1762272,5.6,6,0.9333333333333332,Alta,económica
+716424,strawberry basil sorbet no ice cream maker necessary,65.40748898678413,3.2,4,0.8,Media,media
+729532,gluten free almond blueberry coffee cake,71.88615151536375,11.8,13,0.9076923076923078,Alta,media
+826558,flourless chocolate almond cake,84.02288888888889,9.2,10,0.92,Alta,media
+830027,chocolatedipped peanut butter cookies w pretzels,38.10383529411765,6.8,8,0.85,Alta,económica
+882762,double chocolate pistachio cookies,82.17563910969794,9.4,11,0.8545454545454546,Alta,media
+918031,oatmeal chocolate chip cookies,121.29602525252524,10.2,11,0.9272727272727272,Alta,alta
+960470,triple chocolate cookie bars,111.71802525252524,12.4,14,0.8857142857142858,Alta,alta
+982367,fidget spinner cookies,98.96577777777776,6.2,7,0.8857142857142858,Alta,media
+993462,captain america shield cookies,29.38888888888889,5.4,7,0.7714285714285715,Media,económica
+1005367,shortbread lemon bars,55.09312,9.2,10,0.92,Alta,media
+1012493,whole wheat banana bread with walnuts,54.79983429686372,11.2,12,0.9333333333333332,Alta,media
+1017375,national hotdog day official hotdog cupcakes,48.42688888888888,5.2,6,0.8666666666666667,Alta,económica
+1019171,skinny chocolate banana bread,35.117206812834226,8.4,10,0.8400000000000001,Alta,económica
+1019172,pineapple cake mix cookie bars,30.849933176470586,6.4,8,0.7999999999999999,Media,económica
+1025438,cake mix cookie bars brownie,61.341543529411766,4.2,5,0.8400000000000001,Alta,media
+1031556,lamington squares,101.8941111111111,8.6,9,0.9555555555555556,Alta,alta
+1035015,iced oatmeal cookies,129.74577777777776,12.8,14,0.9142857142857144,Alta,alta
+1077393,easter sugar cookie bars,81.22188888888888,10.4,12,0.8666666666666667,Alta,media
+1095688,indian sweet jackfruit dessert,6.732843176470588,5.6,6,0.9333333333333332,Alta,económica
+1095712,nobake cookies with coconut oil,48.70177921568627,7.8,9,0.8666666666666667,Alta,económica
+1095728,best ever deep dark chocolate zucchini cake,98.17901748807633,11.4,13,0.8769230769230769,Alta,media
+1095735,mango pistachio muhallebi dessert,31.447567567567567,5.2,6,0.8666666666666667,Alta,económica
+1095739,chewy pistachio pretzel chocolate chip cookies,146.38815615615616,14.8,16,0.925,Alta,alta
+1095774,moist and tender lemon cake,131.17466666666667,7.2,8,0.9,Alta,alta
+1095775,delicious egg custard,55.098,5.2,6,0.8666666666666667,Alta,media
+1095781,simple strawberry shortcake,154.7920408223201,9.2,10,0.92,Alta,alta
+1095788,lightning style the 40minute coconut cake,25.406235294117646,8.8,10,0.8800000000000001,Alta,económica
+1095797,lemon rum crpes,73.81466666666667,7.8,9,0.8666666666666667,Alta,media
+1095799,juicy pear and apple cake,109.466,14.4,16,0.9,Alta,alta
+1095804,danish butter cookies,137.1671111111111,8.8,10,0.8800000000000001,Alta,alta
+1095838,homemade churros,38.62120911111111,7.2,8,0.9,Alta,económica
+1095839,pernik czech spice cake,36.70823529411765,8.8,10,0.8800000000000001,Alta,económica
+1095878,muesli cookies,74.67852146263911,12.8,16,0.8,Media,media
+1095905,smore rice krispie treats,130.78666666666666,4.4,6,0.7333333333333334,Media,alta
+1095934,rosemary lemon infused cake,65.73227450980391,14.0,16,0.875,Alta,media
+1095942,dulche de leche fudge,90.76653333333334,4.6,5,0.92,Alta,media
+1095958,apple rose puff dessert,5.25,4.4,6,0.7333333333333334,Media,económica
+1095959,vegan spiced cranberry swirl ice cream,66.56674008810572,6.8,8,0.85,Alta,media
+1095963,mini oatmeal cookie cheesecakes,169.97349777777777,20.8,24,0.8666666666666667,Alta,alta
+1096002,vegan chocolate covered cookie dough dessert,28.858705882352943,7.2,8,0.9,Alta,económica
+1096068,spring pudding chex mix,95.5,3.6,4,0.9,Alta,media
+1096170,fruit and yogurt parfait breakfast tart,91.3053536000275,10.4,12,0.8666666666666667,Alta,media
+1096193,lemon strawberry cake,59.84540871267743,8.8,10,0.8800000000000001,Alta,media
+1096195,peanut butter brownie cheesecake,111.7238888888889,8.2,11,0.7454545454545454,Media,alta
+1096196,chocolate blackberry cake,58.77855849241311,7.8,9,0.8666666666666667,Alta,media
+1096207,strawberry basil ice cream,115.4407074889868,6.0,8,0.75,Media,alta
+1096212,keto cheesecake,163.9096936936937,6.8,8,0.85,Alta,alta
+1096274,very vanilla eggfree ice cream,38.351,3.6,4,0.9,Alta,económica
+1096280,strawberry lime basil sherbet,41.37,5.4,7,0.7714285714285715,Media,económica
+1096287,easter cake pops,91.10588235294118,4.2,5,0.8400000000000001,Alta,media
+1096301,easy strawberry shortcake for one,5.708149779735683,3.8,5,0.76,Media,económica
+1096302,coffee chia pudding,16.07,3.8,5,0.76,Media,económica
+1096322,pear leek gruyere turnovers,50.79166666666666,6.4,8,0.8,Media,media
+1098248,caramel apples,14.0996,2.6,3,0.8666666666666667,Alta,económica
+1098347,homemade banana bread,45.96192738738738,8.6,9,0.9555555555555556,Alta,económica
+1157763,new years eve countdown cookies,49.455866888888885,7.6,8,0.95,Alta,económica
+1161745,cake balls,76.75444444444443,4.2,5,0.8400000000000001,Alta,media
+1428205,pantry cocoa powder brownies,54.34712418300653,7.2,8,0.9,Alta,media
+1449043,easy magic cookie bars,114.04564564564564,6.8,8,0.85,Alta,alta
+1449045,dr pepper brownies,83.08848888888889,7.2,8,0.9,Alta,media
+1461601,the best monster cookie,83.92188888888889,11.0,13,0.8461538461538461,Alta,media
+1469671,easy strawberry dump cake,53.35113558492413,4.2,5,0.8400000000000001,Alta,media
+1470917,strawberry cobbler,117.61787567302984,7.6,8,0.95,Alta,alta
+1518975,chocolate chip cookie bars,49.00588235294118,6.6,7,0.9428571428571428,Alta,económica
+1646939,strawberry scones,63.13336669603524,10.2,11,0.9272727272727272,Alta,media
+1681371,apple nut sour cream coffee cake,115.91286884684683,15.4,17,0.9058823529411764,Alta,alta
+1681411,eggless chocolate chip crescent cookies eggless cookies,44.446888888888886,5.0,5,1.0,Alta,económica
+1681425,microwave eggless chocolate lave mug cake,6.557352941176471,8.2,9,0.911111111111111,Alta,económica
+1697523,6 mouthwatering parfait you need in your life right now,3.0,4.0,6,0.6666666666666666,Media,económica
+1697527,old fashioned peanut butter fudge,34.01133333333333,5.6,6,0.9333333333333332,Alta,económica
+1697539,peach mango turnovers,90.437,9.2,12,0.7666666666666666,Media,media
+1697545,fudgy nutella brownies with salted caramel sauce,93.65188888888888,12.8,14,0.9142857142857144,Alta,media
+1697555,moms jewish apple cake,56.03188,8.8,10,0.8800000000000001,Alta,media
+1697561,berries and cream chocolate pie,135.75430453255015,10.0,12,0.8333333333333334,Alta,alta
+1697563,my best lemon meringue pie,140.62777777777777,14.4,18,0.8,Media,alta
+1697567,chocolate zucchini bread,92.01144444444444,12.2,15,0.8133333333333332,Alta,media
+1697569,peach upside down cake,55.818,10.4,12,0.8666666666666667,Alta,media
+1697589,hummingbird carrot cake,264.9111671082848,18.2,21,0.8666666666666666,Alta,premium
+1697605,chocolate peanut butter cupcakes,151.79688888888887,14.8,18,0.8222222222222223,Alta,alta
+1697627,berry chantilly cake,249.2251057383893,14.6,17,0.8588235294117647,Alta,premium
+1697637,fresh fruit tart,96.97188888888888,15.6,18,0.8666666666666667,Alta,media
+1697657,easy fudge,125.85418018018018,6.0,6,1.0,Alta,alta
+1697661,chocolate cake in a mug,13.873333333333331,7.2,8,0.9,Alta,económica
+1697669,the best banana nut bread,95.46252564564566,10.2,11,0.9272727272727272,Alta,media
+1697671,sour cream coffee cake,156.01677777777778,17.0,19,0.8947368421052632,Alta,alta
+1697685,lemon raspberry cheesecake bars,103.95854631669114,11.0,13,0.8461538461538461,Alta,alta
+1697691,quick easy blueberry crisp,114.65898678414096,8.8,10,0.8800000000000001,Alta,alta
+1697701,bootifully delicious triple chocolate cupcakes,194.38266562091505,15.8,19,0.831578947368421,Alta,alta
+1697769,irish coffee chocolate mousse,36.89,5.8,7,0.8285714285714285,Alta,económica
+1697771,worlds best apple pie,108.285,14.2,15,0.9466666666666668,Alta,alta
+1697795,moms best chocolate chip cookies,139.01377777777776,10.2,11,0.9272727272727272,Alta,alta
+1697803,pumpkin cheesecake,136.66426666666666,11.0,13,0.8461538461538461,Alta,alta
+1697805,dutch oven blueberry cobbler,31.54416533333333,9.8,11,0.890909090909091,Alta,económica
+1697807,chocolate castella cake,44.965288,10.4,12,0.8666666666666667,Alta,económica
+1697811,mint chocolate cheesecake,143.737,10.0,12,0.8333333333333334,Alta,alta
+1697825,coffee bean cookies,37.87195333333333,6.8,8,0.85,Alta,económica
