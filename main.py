@@ -226,9 +226,7 @@ if usar_ingredientes:
 # 🔍 INPUT
 query = st.text_input("🍰 ¿Qué postre te gustaría preparar?")
 
-# =========================
 # 🧠 CONTROL DE QUERY
-# =========================
 if "ultima_query" not in st.session_state:
     st.session_state.ultima_query = None
 
@@ -236,16 +234,14 @@ if query != st.session_state.ultima_query:
     st.session_state.receta_traducida = None
     st.session_state.analisis = None
     st.session_state.receta_seleccionada = None
-    st.session_state.ultima_receta = None  # 🔥 importante
+    st.session_state.ultima_receta = None
     st.session_state.ultima_query = query
 
-# =========================
 # 🔎 BUSCADOR
-# =========================
 if query:
     resultados = buscar_recetas_base(query, df, top_n=5)
 
-    # 🔥 aplicar filtros
+    # aplicar filtros
     resultados = resultados[resultados["id"].isin(df_filtrado["id"])]
 
     if resultados.empty:
@@ -297,9 +293,7 @@ if query:
                     f"💸 ${receta['precio_total']:.2f} | 🔎 {clasificar_confianza(receta['confianza'])}"
                 )
 
-            # =========================
             # 🍰 RECETA
-            # =========================
             if "receta_traducida" not in st.session_state:
                 st.session_state.receta_traducida = None
 
@@ -317,10 +311,8 @@ if query:
             for i, paso in enumerate(receta_traducida["instrucciones"], 1):
                 st.write(f"{i}. {paso}")
 
-            # =========================
             # 🥗 NUTRICIÓN
-            # =========================
-            if "analisis" not in st.session_state:
+           if "analisis" not in st.session_state:
                 st.session_state.analisis = None
 
             if st.session_state.analisis is None:
