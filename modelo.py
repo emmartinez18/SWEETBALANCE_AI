@@ -148,7 +148,7 @@ def clasificar_confianza(valor):
 def generar_descripcion(receta):
 
     prompt = f"""
-    Describe este postre en máximo 1 línea, de forma atractiva.
+    Describe este postre en máximo 2 líneas, de forma atractiva, no menciones el nombre de la receta.
 
     Nombre: {receta}
     """

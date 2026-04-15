@@ -227,8 +227,9 @@ if usar_ingredientes:
 st.markdown("## 👋 Bienvenido a SweetBalance AI")
 st.caption("Descubre postres deliciosos y de tu preferencia 🍰✨")
 query = st.text_input("💬 Escribe el postre o tu ingrediente favorito:")
+#st.caption("Ejemplo: chocolate, fresa, pudin, etc.")
 
-# CONTROL DE QUERY
+# 🧠 CONTROL DE QUERY
 if "ultima_query" not in st.session_state:
     st.session_state.ultima_query = None
 
@@ -239,7 +240,7 @@ if query != st.session_state.ultima_query:
     st.session_state.ultima_receta = None
     st.session_state.ultima_query = query
 
-# BUSCADOR
+# 🔎 BUSCADOR
 if query:
     resultados = buscar_recetas_base(query, df, top_n=5)
 
@@ -316,7 +317,7 @@ if query:
                 else:
                     st.error("🔴 Alto en azúcar o grasas")
 
-            # RECETA
+            # 🍰 RECETA
             if "receta_traducida" not in st.session_state:
                 st.session_state.receta_traducida = None
 
@@ -329,7 +330,7 @@ if query:
 
             col1, col2 = st.columns([1,2])
 
-            # INGREDIENTES
+            # 🥗 INGREDIENTES
             with col1:
 
                 st.markdown("### 🥗 Ingredientes")
@@ -390,8 +391,10 @@ if query:
 
                 col1, col2 = st.columns(2)
 
-                # Alertas y Recomendaciones
-               with col1:
+                # =========================
+                # 🟥 COLUMNA IZQUIERDA
+                # =========================
+                with col1:
 
                     st.markdown("## ⚠️ Alertas")
                     for alerta in data["alertas"]:
@@ -401,7 +404,10 @@ if query:
                     for r in data["recomendaciones"]:
                         st.success(r)
 
-                # Nutricion y sustituciones
+
+                # =========================
+                # 🟦 COLUMNA DERECHA
+                # =========================
                 with col2:
 
                     st.markdown("## 📊 Valores")
