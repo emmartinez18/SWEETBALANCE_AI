@@ -225,55 +225,71 @@ if usar_ingredientes:
 
 # 🔍 INPUT
 st.markdown("## 👋 Bienvenido a SweetBalance AI")
-st.caption("Descubre postres deliciosos y de tu preferencia 🍰✨")
+st.caption("Descubre deliciosas recetas de postres a tu gusto 🍰✨")
 query = st.text_input("💬 Escribe el postre o tu ingrediente favorito:")
 
 # CONTROL DE QUERY
+if "opciones" not in st.session_state:
+    st.session_state.opciones = {}
+
 if "ultima_query" not in st.session_state:
     st.session_state.ultima_query = None
 
-if query != st.session_state.ultima_query:
-    st.session_state.receta_traducida = None
-    st.session_state.analisis = None
-    st.session_state.receta_seleccionada = None
+if "ultima_receta" not in st.session_state:
     st.session_state.ultima_receta = None
-    st.session_state.ultima_query = query
+
 
 # BUSCADOR
 if query:
-    resultados = buscar_recetas_base(query, df, top_n=5)
 
-    # aplicar filtros
-    resultados = resultados[resultados["id"].isin(df_filtrado["id"])]
+    # SOLO recalcular si cambia query
+    if query != st.session_state.ultima_query:
 
-    if resultados.empty:
+        st.session_state.ultima_query = query
+
+        # reset estados
+        st.session_state.receta_traducida = None
+        st.session_state.analisis = None
+        st.session_state.receta_seleccionada = None
+        st.session_state.ultima_receta = None
+
+        resultados = buscar_recetas_base(query, df, top_n=5)
+
+        resultados = resultados[resultados["id"].isin(df_filtrado["id"])]
+
+        # guardar opciones
+        st.session_state.opciones = {
+            row["nombre"]: row.to_dict()
+            for _, row in resultados.iterrows()
+        }
+
+    opciones = st.session_state.opciones
+
+    if not opciones:
         st.warning("No se encontraron recetas 😢")
 
     else:
         st.markdown("### 🔎 Te recomendamos estas opciones:")
 
-        opciones = {
-            row["nombre"]: row.to_dict()
-            for _, row in resultados.iterrows()
-        }
+        opciones_lista = list(opciones.keys())
 
         seleccion = st.selectbox(
             "Elige una opción 👇",
-            ["Selecciona una receta..."] + list(opciones.keys())
+            opciones_lista,
+            index=None,
+            placeholder="Selecciona una receta...",
+            key="selector_receta"
         )
 
-        if seleccion != "Selecciona una receta...":
+        if seleccion:
 
             receta = opciones[seleccion]
 
             # RESET POR CAMBIO DE RECETA
-            if "ultima_receta" not in st.session_state:
-                st.session_state.ultima_receta = None
-
             if st.session_state.ultima_receta != receta["id"]:
                 st.session_state.receta_traducida = None
                 st.session_state.analisis = None
-                st.session_state.descripcion = None 
+                st.session_state.descripcion = None
                 st.session_state.ultima_receta = receta["id"]
 
             # IMAGEN + INFO
@@ -390,19 +406,12 @@ if query:
 
                 col1, col2 = st.columns(2)
 
-                # Alertas y Recomendaciones
+                # Sustituciones y Nutricion
                 with col1:
 
-                    st.markdown("## ⚠️ Alertas")
-                    for alerta in data["alertas"]:
-                        st.warning(alerta)
-
-                    st.markdown("## ✅ Recomendaciones")
-                    for r in data["recomendaciones"]:
-                        st.success(r)
-
-                # Nutricion y sustituciones
-                with col2:
+                    st.markdown("## 🔄 Sustituciones")
+                    for s in data["sustituciones"]:
+                        st.write(f"• {s}")    
 
                     st.markdown("## 📊 Valores")
 
@@ -413,6 +422,15 @@ if query:
                     st.write(f"🧈 Grasas: {data['nutricion']['grasas']}")
                     st.write(f"🌿 Fibra: {data['nutricion']['fibra']}")
 
-                    st.markdown("## 🔄 Sustituciones")
-                    for s in data["sustituciones"]:
-                        st.write(f"• {s}")    
+                 # Recomendaciones y Alertas
+                with col2:
+                    
+                    st.markdown("## ⚠️ Alertas")
+                    for alerta in data["alertas"]:
+                        st.warning(alerta)
+
+                    st.markdown("## ✅ Recomendaciones")
+                    for r in data["recomendaciones"]:
+                        st.success(r)
+
+                    

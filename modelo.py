@@ -106,7 +106,7 @@ def get_embedding(text):
 def buscar_recetas_base(query, df, top_n=3):
 
     # traducir a inglés
-    query_en = query #traducir_en(query)
+    query_en = traducir_en(query)
 
     # embedding del usuario
     query_emb = get_embedding(query_en)
@@ -165,7 +165,7 @@ def analizar_receta_ia(receta):
 
     prompt = f"""
     Eres un experto analizando los porcentajes nutricionales de postres.
-    Devuelve cuatro lineas breves y claras, donde indique a que tipo de usuario no es recomendable consumir dicho postre,
+    Devuelve los cuatro puntos en lineas breves y claras, donde indique a que tipo de usuario no es recomendable consumir dicho postre,
     cantidades o porciones que se deben de disminuir o consumir, incluye recomendaciones y sustituciones de ingredientes.
 
     Analiza la siguiente receta:
@@ -189,12 +189,12 @@ def analizar_receta_ia(receta):
         "texto corto"
       ],
       "nutricion": {{
-        "calorias": "texto claro",
-        "azucar": "texto claro",
-        "carbohidratos": "texto claro",
-        "proteínas": "texto claro"
-        "grasas": "texto claro"
-        "fibra": "texto claro"
+        "calorias": "texto claro y breve",
+        "azucar": "texto claro y breve",
+        "carbohidratos": "texto claro y breve",
+        "proteínas": "texto claro y breve"
+        "grasas": "texto claro y breve"
+        "fibra": "texto claro y breve"
       }},
       "recomendaciones": [
         "texto corto",
